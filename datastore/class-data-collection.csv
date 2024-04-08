@@ -1,4 +1,4 @@
-CSE5544 student Name,dotID,AgeRange,Gender,CountryOfOrigin,Department,Grade level,DateOfSurvey,LocationOfSurvey,ImageViewed URL (please copy Column C in the next tab),Image,Task1Naming,Task1Meaning,Task1GroundTruth
+CSE5544 student Name,dotID,AgeRange,Gender,CountryOfOrigin,Department,Grade level,DateOfSurvey,LocationOfSurvey,ImageViewed URL,Image,Task1Naming,Task1Meaning,Task1GroundTruth
 Jinsu Yoo,503,25~30,M,Korea,CSE,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,absolute chart,compare positive/negative impact,horizon graph
 Cheng Yu,3500,30~35,Male,Taiwan,Dentistry,MS student,2/13/2024,RPAC,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,area chart,,stacked graph
 Ansh Jain,849,24,Male,USA,CSE,Postgraduate,2/13/2024,Neil Ave,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Area Chart,Dorling Cartogram/area chart,

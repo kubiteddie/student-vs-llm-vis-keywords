@@ -1,0 +1,601 @@
+,ImageViewed URL,Task1Naming,Task1Meaning,Task1GroundTruth,Category
+0,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,absolute chart,compare positive/negative impact,horizon graph,1
+1,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,area chart,,stacked graph,1
+2,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,Area Chart,Dorling Cartogram/area chart,,3
+3,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,Area Graph,treemap,,4
+4,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,area map,,choropleth map,3
+5,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,area under curve,,horizon graph,1
+6,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,Bar Chart,icicle tree,,4
+7,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,Bar chart,icicle tree,,4
+8,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,Bar Graph,,Small Multiples,1
+9,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,Bar Graph,,Indent Tree,4
+10,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,Bar Graph,,Icicle Tree,4
+11,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Best fit line over scatter plot,Q-Q plot,,2
+12,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,Bullet point chart,Indented tree,,4
+13,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Car data similarity matrix,Splom / scatterplot matrix,,2
+14,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,Categoried-web chart,force-directed layout,,5
+15,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,Cell chart,Nested circle,,4
+16,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,Chaotic pie graph,sunburst,,4
+17,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,Circle chart,Radial node-link diagram / tree,,4
+18,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,Circle Graph,,Dorling Cartogram/Area Chart,3
+19,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,Circular branch chart,polar coordinates node-link / tree,,4
+20,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,Circular tree diagram,polar coordinates node-link / tree,,4
+21,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,Comparison Grid,matrix view,,5
+22,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Completion percentages of Turkers on Amazon's Mechanical Turk,,Stem and Leaf Plot,2
+23,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Complition Distribution,Q-Q Plot,,2
+24,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Complition Distribution,Q-Q Plot,,2
+25,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,Connected Graph,Force-directed layout,,5
+26,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,Connection chart,arc diagram,,5
+27,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,correlation map,,Q-Q plot,2
+28,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,Cumulative bar graph,small multiples,,1
+29,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Data Plot,Q-Q plot,,2
+30,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,data source,indent tree,,4
+31,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Density Map,,Choropleth Map,3
+32,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,Distance travelled graph,flow map / mpa,,3
+33,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Distribution,stem-and-leaf plot,,2
+34,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,distribution map,relationship between two variables,Splom / scatterplot matrix,2
+35,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,dorling cartogram,percentage of population,Dorling Cartogram/area chart,3
+36,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,Dorling Cartogram,Dorling Cartogram/area chart,,3
+37,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,dot graph,distribution of data,Splom / scatterplot matrix,2
+38,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Dots with best line of fit,,Splom/Scatterplot Matrix,2
+39,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,Family Tree,icicle tree,,4
+40,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,File Hierarchy,indent tree,,4
+41,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,File structure,Indented tree,,4
+42,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,Flare Chart,,Sunburst,4
+43,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,flare sphere,nested circle,,4
+44,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,Floor plan,Tree map,,4
+45,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,Flow map,,Flow map/MPA,3
+46,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,Flow Map,Flow Map,,3
+47,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Geologic heat map,Chloroploth Map,,3
+48,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,Graph,Arc Diagram,,5
+49,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,Grouping Map,,Nested Circle,4
+50,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,heat map,,choropleth map,3
+51,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Heat Map,choroploth map,,3
+52,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Heat Map,choropleth map,,3
+53,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,Horizon Graph,,Horizon Graph,1
+54,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,Horizon Graph,Horizon,,1
+55,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,incontinental layers,icicle tree,,4
+56,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,index chart,visualize two variables,Index chart/line chart,1
+57,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,Inheritance diagram,Radial node-link diagram / tree,,4
+58,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/stem-and-leaf.html,Leaf Node Graph,Stem and Leaf Plot,,2
+59,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,Les Miserables Character Interaction,,Arc Diagram,5
+60,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,les miserables character interaction as a force directed graph,force-directed layout,,5
+61,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,les miserables characters bar graph,matrix view,,5
+62,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,Line,Small Multiples,,1
+63,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,line chart,change of unemployment,stacked graph,1
+64,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,line chart,,Index chart/line chart,1
+65,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,line chart,observe trend,Index chart/line chart,1
+66,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,line chart,relationship between the two,Index chart/line chart,1
+67,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,line chart,,Index chart/line chart,1
+68,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Line chart,Line chart,,1
+69,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,Line Correlation Chart,arc diagram,,5
+70,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Line Graph,,Q-Q Plot,2
+71,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Line Graph,Line chart,,1
+72,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Line Graph,,Index Chart,1
+73,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Linear Graph,,Q-Q Plot,2
+74,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Linear Plot,,Q-Q Plot,2
+75,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,Map,,Flow map/MPA,3
+76,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Map Chart,,Chloroplath Map,3
+77,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Map graph,Pie chart/ area chart,,3
+78,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Map of obesity population across US,,Pie Chart/Area Chart,3
+79,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,Matrix,Matrix view,,5
+80,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,Matrix Graph,matrix view,,5
+81,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Mechanical Turk Participation Rates,stem-and-leaf plot,,2
+82,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,multiple pie chart,,pie chart / area chart,3
+83,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,Napoleans March,flow map / mpa,,3
+84,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,Napoleons March on Moscow,flow map / mpa,,3
+85,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,network graph,relationship,polar coordinates node-link / tree,4
+86,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,neural network,conditional graph,parallel Coordinates,2
+87,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,neural network,i don't know,parallel Coordinates,2
+88,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,Nodal Analysis,Force-directed layout,,5
+89,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,Nodal Graph,arc diagram,,5
+90,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,Node chart,,Force-Directed Layout,5
+91,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Number Graph,Stem and Leaf Plot,,2
+92,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,obesity,pie chart / area chart,,3
+93,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,Obesity in the United States,Dorling Cartogram/area chart,,3
+94,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Obesity Map,Choroploth Map,,3
+95,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Obesity Map,choroploth map,,3
+96,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Obesity per State,choroploth map,,3
+97,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Obesity percentages in the USA,pie chart / area chart,,3
+98,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,Obesity rates dot graph,area chart,,3
+99,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,Obesity rates dot graph,area chart,,3
+100,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,Organization of parent and child classes,,Sunburst,4
+101,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,Packaged-list chart,indent tree,,4
+102,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,Parallel Coordinates,Parallel Coordinates,,2
+103,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,Parallel Coordinates of Automobile Data,parallel Coordinates,,2
+104,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,parallel Coordinates of Automobile Data,parallel Coordinates,,2
+105,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,Parallel Correlation,,Parallel Coordinates,2
+106,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,Pie and Circle,nested circle,,4
+107,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,pie chart,show percentage,pie chart / area chart,3
+108,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Pie Chart,,Pie Chart/Area Chart,3
+109,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,pie chart,percentage,pie chart / area chart,3
+110,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,pie chart,nested proportion,pie chart / area chart,3
+111,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,pie chart,visualize percentage,pie chart / area chart,3
+112,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Pie Chart,,Pie Chart,3
+113,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,pie chart,,pie chart / area chart,3
+114,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Pie chart,Pie chart/ area chart,,3
+115,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,Pie Chart Breakdown,sunburst,,4
+116,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Pie Map,pie chart / area chart,,3
+117,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,pie tree,category,polar coordinates node-link / tree,4
+118,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Plot Chart,,Q-Q plot,2
+119,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,Plotted Co-occurrence,,Arc Diagram,5
+120,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Plotted Line Graph,,Index Chart/Line Chart,1
+121,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Population map,,choropleth map,3
+122,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,population map,,choropleth map,3
+123,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,population map,,choropleth map,3
+124,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Portion Chart,,Stacked Graph,1
+125,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Probablity Matrix,Scatter Plot Matrix,,2
+126,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/splom.html,Probablity Matrix,Scatter Plot Matrix,,2
+127,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,q-q plot,percentage of x vs y,Q-Q plot,2
+128,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,Radial Graph,Sunburst,,4
+129,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,Radial Tree,Radial node-link diagram / tree,,4
+130,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,Rates of unumployment graph,Horizon,,1
+131,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,recursive circle,parent-child node,nested circle,4
+132,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,recursive rectangle,showing category,treemap,4
+133,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Regression Chart,,Q-Q plot,2
+134,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,Relation Chart,,Matrix View,5
+135,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,Round Graph,,Polar Coordinates Node-Link/Tree,4
+136,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,scatter plot,relationship btw two variable,Splom / scatterplot matrix,2
+137,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,scatter plot,,Splom / scatterplot matrix,2
+138,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,scatter plot,,Splom / scatterplot matrix,2
+139,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,scatter plot,scatter data,Splom / scatterplot matrix,2
+140,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Scatter Plot,,Stem and Leaf Plot,2
+141,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Scatter Plot,,Scatter Matrix,2
+142,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,scatter plot,,Splom / scatterplot matrix,2
+143,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/splom.html,Scatter Plot,Scatter Plot Matrix,,2
+144,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Scatter Plot,,Splom/Scatterplot Matrix,2
+145,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Scatter plot,Scatter Plot Matrix,,2
+146,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Scatter plot,Q-Q plot,,2
+147,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Scatter Plot Matrix,Splom / scatterplot matrix,,2
+148,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Scatter Plot Matrix Automobile Data,Splom / scatterplot matrix,,2
+149,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,Similarity chart,treemap,,4
+150,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,Similarity chart,treemap,,4
+151,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,Similarity circle chart,nested circle,,4
+152,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,Some sort of matrix,Matrix view,,5
+153,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Stacked Graph,,Stacked Graph,1
+154,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Stacked graph,Stacked graph,,1
+155,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Stacked Graph of Unemployed U.S. Workers by Industry,stacked graph,,1
+156,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,stacked line chart?,,stacked graph,1
+157,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Stem and Leaf,,Stem and Leaf Plot,2
+158,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Stem and Leaf Graph,,Stem and Leaf Plot,2
+159,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Stem and Leaf Plot,stem-and-leaf plot,,2
+160,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Stock Analysis,line,Index chart/line chart,1
+161,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Stock gain line chart,Index chart/line chart,,1
+162,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/index-chart.html,Stock Graph,Index Graph,,1
+163,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Stock Growth,Index Graph,,1
+164,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Stock Growth,Index Graph,,1
+165,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Stock Market Graph,Line chart,,1
+166,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,Straight chart,Tree,,4
+167,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,Sun flare,Sunburst,,4
+168,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Symbol Map,pie chart / area chart,,3
+169,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Technology Stocks,Index chart/line chart,,1
+170,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,Time Graph,,Small Multiples,1
+171,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,Tree,Tree,,4
+172,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,Tree,Radial node-link diagram / tree,,4
+173,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,tree,category,Radial node-link diagram / tree,4
+174,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,tree,tree,Radial node-link diagram / tree,4
+175,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,Tree,,Indent Tree,4
+176,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,Tree,,Radial node-link diagram / tree,4
+177,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,Tree diagram,Radial node-link diagram / tree,,4
+178,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,Tree diagram,Tree,,4
+179,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,Tree diagram,Radial node-link diagram / tree,,4
+180,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,trend plot,,Q-Q plot,2
+181,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Unemployment chart,stacked graph,,1
+182,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Unemployment rate,stacked graph,,1
+183,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,Unemployment rate,Small Multiples,,1
+184,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,"Unemployment Rate of U.S. Workers by Industry, 2000-2010",small multiples,,1
+185,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,Unemployment rates over time,horizon graph,,1
+186,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Uniform distribution comparison plot,Q-Q plot,,2
+187,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,US Unemployment Rate,horizon graph,,1
+188,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,USA Pie Chart,Pie Chart,,3
+189,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,Venn Diagram,,Nested Circle,4
+190,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,Package tree,indent tree,,4
+191,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Percentage graph,Q-Q plot,,2
+192,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,Nodes graph,force-directed layout,,5
+193,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,Tree maps,treemap,,4
+194,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,icicle graph,icicle tree,,4
+195,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Parallel Coordinates,Q-Q plot,,2
+196,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,Linear graph,parallel Coordinates,,2
+197,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Q-Q Plot,Q-Q plot,,2
+198,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,Horizon Graph,horizon graph,,1
+199,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,Icicle plot,icicle tree,,4
+200,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Line chart,Index chart/line chart,,1
+201,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Heat map,pie chart / area chart,,3
+202,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,Module map,nested circle,,4
+203,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Heatmap?,choroploth map,,3
+204,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,Hierarchy?,Radial node-link diagram / tree,,4
+205,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,"Total counts of unemployed person per industry, 2000-2010",small multiples,,1
+206,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,Flare package tree,polar coordinates node-link / tree,,4
+207,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,Tree graph,treemap,,4
+208,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Line graph,stacked graph,,1
+209,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,Tree,polar coordinates node-link / tree,,4
+210,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,Scaled graph,force-directed layout,,5
+211,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,compound line,stacked graph,,1
+212,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,density graph,horizon graph,,1
+213,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,parallel coordinates plot,parallel Coordinates,,2
+214,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,heat map,icicle tree,,4
+215,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Stacked Density Plot,I dont know,,1
+216,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,I dont know,The job market trends,,1
+217,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Line Plot,,,1
+218,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Line Plot,Stock prices,,1
+219,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Heatmap,Obesity levels by state,,3
+220,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,file system diagram,indent tree,,4
+221,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,line plot,Index chart/line chart,,1
+222,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,block plot,icicle tree,,4
+223,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,trend plot,horizon graph,,1
+224,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,scatter plots,Splom / scatterplot matrix,,2
+225,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,network graph,force-directed layout,,5
+226,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,sphere plot,Dorling Cartogram/area chart,,3
+227,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Point Scatter plot,Q-Q plot,,2
+228,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Geo distribution plot,choroploth map,,3
+229,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,multi line plot,stacked graph,,1
+230,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,circular tree graph,polar coordinates node-link / tree,,4
+231,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,dont know,parallel Coordinates,,2
+232,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,circle plot,nested circle,,4
+233,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,connection graph,arc diagram,,5
+234,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,matrix plot,matrix view,,5
+235,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,pie chart,pie chart / area chart,,3
+236,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,map,flow map / mpa,,3
+237,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,concentric figure,sunburst,,4
+238,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,tree,Radial node-link diagram / tree,,4
+239,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,trends,small multiples,,1
+240,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,area plot,treemap,,4
+241,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,stock price graph,Index chart/line chart,,1
+242,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,heatmap,choroploth map,,3
+243,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,pie chart,pie chart / area chart,,3
+244,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,scatterplot,Splom / scatterplot matrix,,2
+245,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,Mapping,parallel Coordinates,,2
+246,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,frequency chart,stem-and-leaf plot,,2
+247,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,time series plot,small multiples,,1
+248,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,scatterplot,Q-Q plot,,2
+249,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Variation of stock with time,,,1
+250,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,Variation of employment rate with profession,,,1
+251,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,Deviation from average unemployment rate,,,1
+252,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Participation Ranking,,,2
+253,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Group completion trend,,,2
+254,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Car Data by Country,,,2
+255,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,Data by Car Characteristics,,,2
+256,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,Progression of army over time,,,3
+257,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Heat map of obesity in the US,,,3
+258,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Obesity chart per state,,,3
+259,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,Absolute and Percentage of Obesity,,,3
+260,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,Sunburst Visualization of Software Package Structure,,,4
+261,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,Treemap Visualization of Software Package Structure,,,4
+262,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,Circle Packing Visualization of Software Package Structure,,,4
+263,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,Force-Directed Graph Visualization of Character Interactions,,,5
+264,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,Word Frequency & co-occurance,,,5
+265,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,Word Interaction Matrix,,,5
+266,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Line chart depicting stock trends,,,1
+267,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Unemployment across domains over a decade,,,1
+268,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,Sectorwise unemployment trends,,,1
+269,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,National Unemployment compared to annual average,,,1
+270,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Participation rates,,,2
+271,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Line Graph,Percent change in stock price,Index Chart,1
+272,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,Pie Chart,Heirarchy / Tree,Sunburst Layout,4
+273,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,bar-heat map,Frequency of appearance of numbers,Stem-and-Leaf Plot,2
+274,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,Marching chart,Path of military campaign,Flow Map,3
+275,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Shaded Intersecting Line Chart,Various elements of the econ,Stacked Graph,1
+276,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,Heat connection map,Interactions of writers / relationships,Arc Diagram,5
+277,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,Breakdown,How much each is informed by each of its parts,Icicle Tree Layout,4
+278,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Area informed pie chart,Distributions based on geographic area,Graduated Symbol Map,3
+279,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,Set of area graphs,Employment,Small Multiples,1
+280,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,Relational Model,Showing the different branches of flare,Radial Node-link Diagram,4
+281,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,Loom / Weave,How number of cylinders relate to attributes of a car,Parallel Coordinates,2
+282,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Scatterplot,Each plot a comparison of 2 of the vars,Scatter Plot Matrix,2
+283,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,Stocks,"Negative Red, Positive Blue",Horizon Graphs,1
+284,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,Importance,More important things are bigger,Treemap Layout,4
+285,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,Venn Diagram,"Orange ones are data, larger circles are category",Nested Circles Layout,4
+286,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Weight / Obesity,"Red is most dense, lighter / green is less",Choropleth Map,3
+287,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,Model Tree,Different storage for variables in a computer,Indented Tree Layout,4
+288,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,Logic Puzzle,"Family tree, what people share similar traits",Matrix View,5
+289,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Cat and Whisker Plot,Represent data points from 0.1 to 10.0,Stem-and-Leaf Plot,2
+290,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Scatterplot,Different engines for cars based on country of production,Scatter Plot Matrix,2
+291,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Line Graph,How is one variable effected by the other over time,Index Chart,1
+292,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,Tree,"Origin, branches off into different branches and leaves",Cartesian Node-link Diagram,4
+293,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,Area Graph,Larger circle more data points,Dorling Cartogram,3
+294,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,Circle Tree,"Origin, branches off into different branches and leaves",Sunburst Layout,4
+295,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Dot Plot but not,Corresponding amount per number,Stem-and-Leaf Plot,2
+296,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,Map of distance,Temperature? Lat? Long?,Flow Map,3
+297,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Scatterplot,Variables increase to the right and up,Q-Q Plots,2
+298,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Census / Demographic Data,Weight dist per weight,Graduated Symbol Map,3
+299,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,Bar Graph,"X axis time, y-axis relevance of industry",Small Multiples,1
+300,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,Logic Tree,Represent relationship between classes in a software program,Radial Node-link Diagram,4
+301,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,Tree Graph,Maps relationships of certain components of a car to others,Parallel Coordinates,2
+302,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Multi-colinearity matrix,Plot relationships two variables at a time based on x or y axis,Scatter Plot Matrix,2
+303,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,Lineage Plot,Maps descendants of certain people,Arc Diagram,5
+304,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,Line Graph and Histograph had a baby,"Blue means growth, red is in the negative",Horizon Graphs,1
+305,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,Box Graph,"Each box represents a percentage, larger box is higher percentage",Treemap Layout,4
+306,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,tree graph,Each circle is a part/a component of the larger circle,Nested Circles Layout,4
+307,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Map,Color is showning the percentage of some data,Choropleth Map,3
+308,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Multiple line chart,It shows the change in stock prices over time,index chart/ line chart,1
+309,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,stacked line chart,Shows the proportion of categories across time,stacked graph,1
+310,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Map,Obesity levels by state,cloroploth map,3
+311,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,Tree Map,proportions of things in different categories,tree map,4
+312,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,Line charts,change in categories over time,small multiples,1
+313,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,i do not know,groups of things,nested circle,4
+314,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Stem and leaf plot,A bunch of numbers,Steam and Leaf plot,2
+315,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Technology stock chart,Index Chart,Trends,1
+316,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Mechanical Turk Participation Rates,Q-Q Plot,Distribution,2
+317,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Obesity map of USA,Choropleth Map,Density,3
+318,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/cartogram.html,Obesity in USA using Dorling Carogram,Dorling Cartogram/Area Chart,Proportions,3
+319,https://homes.cs.washington.edu/~jheer//files/zoo/ex/networks/arc.html,Interaction of Les Miserables characters,Arc Diagram,Relationships,5
+320,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/index-chart.html,Index chart of stocks,Index Chart,Trends,1
+321,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/symbol.html,Graduated Symbol Map of obesity,Pie Chart,Composition,3
+322,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/splom.html,Plot of automobile data,Scatter Plot Matrix,Correlations,2
+323,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/stack.html,Unemployment graph,Stacked Graph,Segmentation,1
+324,https://homes.cs.washington.edu/~jheer//files/zoo/ex/networks/force.html,Interaction graph,Force directed layout,Networks,5
+325,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/multiples.html,Unemployment rate of US workers by industry,Small Multiples,Comparison,1
+326,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/stem-and-leaf.html,Stem and Leaf Plot of Mechanical Turk Participation rates,Stem and Leaf Plot,Distribution,2
+327,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/parallel.html,Parallel Coordinates of Automobile Data,Parallel Coordinates,Dimensions,2
+328,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/horizon.html,Horizon Graph of unemployment,Horizon Graph,Compression,1
+329,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/pack.html,Hypertree,The Flare Package tree,Circle Packing Tree,4
+330,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/stack.html,Stacked Graph,Unemployment,Stacked Graph,1
+331,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/parallel.html,Parallel plot diagram,Automobile Data,Parallel Coordinates,2
+332,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/tree.html,tree map,The Flare Package tree,Node-Link Tree,4
+333,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/index-chart.html,Line Chart,Stock Increase,Index Chart,1
+334,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/multiples.html,I do not know,Unemployment,Small Multiples,1
+335,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/stem-and-leaf.html,Stem and Leaf,Mechanical Turk Participation Rates,Stem and Leaf Plot,2
+336,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/splom.html,Scatter Plot,Automobile Data,Scatter Plot Matrix,2
+337,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/qqplot.html,Turker task group completion ,Mechanical Turk Participation Rates,Q-Q Plot,2
+338,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/choropleth.html,Obesity in the United States (1995 to 2008),Obesity in the United States (1995 to 2008),Choropleth Map,3
+339,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/cluster-radial.html,Radial trees ,The Flare Package tree,Radial Cluster Layout,4
+340,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/treemap.html,I do not know,The Flare Package tree,Treemap Layout,4
+341,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/index-chart.html,Line graph,Stock Increase,Index Chart,1
+342,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/multiples.html,Bar graph,Unemployment,Small Multiples,1
+343,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/stem-and-leaf.html,Stem and Leaf,Mechanical Turk Participation Rates,Stem and Leaf Plot,2
+344,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/splom.html,Scatter Plot,Automobile Data,Scatter Plot Matrix,2
+345,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/parallel.html,Neuro graph,Automobile Data,Parallel Coordinates,2
+346,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/choropleth.html,Obesity in the US,Obesity in the United States (1995 to 2008),Choropleth Map,3
+347,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/cartogram.html,Circles,Obesity in the United States (1995 to 2008),Dorling Cartogram,3
+348,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/cluster-radial.html,Tree,The Flare Package tree,Radial Cluster Layout,4
+349,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/symbol.html,Circle Map,Obesity in the United States (1995 to 2008),Graduated Symbol Map,3
+350,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/tree.html,Node Tree,The Flare Package tree,Node-Link Tree,4
+351,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/indent.html,Tree,The Flare Package tree,Indented Tree,4
+352,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/icicle.html,Tree Levels,The Flare Package tree,Icicle Tree,4
+353,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/treemap.html,Square Tree,The Flare Package tree,Treemap Layout,4
+354,https://homes.cs.washington.edu/~jheer//files/zoo/ex/networks/force.html,Node Tree,Les Misérables character interaction,Force directed graph,5
+355,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/index-chart.html,Line Chart,Stock Increase,Index Chart,1
+356,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/sunburst.html,Cricles,The Flare Package tree,Sunburst Tree,4
+357,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/pack.html,Cricles,The Flare Package tree,Circle Packing Tree,4
+358,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/stack.html,Stock Plot,Unemployment,Stacked Graph,1
+359,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/qqplot.html,Linear Algebra,Mechanical Turk Participation Rates,Q-Q Plot,2
+360,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/choropleth.html,Obesity in the US,Obesity in the United States (1995 to 2008),Choropleth Map,3
+361,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/stem-and-leaf.html,Stem and Leaf graph,Mechanical Turk Participation Rates,Stem and Leaf Plot,2
+362,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/parallel.html,Parallel Coordinates,Automobile Data,Parallel Coordinates,2
+363,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/cartogram.html,Circle Graph,Obesity in the United States (1995 to 2008),Dorling Cartogram,3
+364,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/icicle.html,Triangle Tree,The Flare Package tree,Icicle Tree,4
+365,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/index-chart.html,Stock Trend chart,Stock increase,Index Chart ,1
+366,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/stem-and-leaf.html,tree plot,Mechanical Turk Participation Rates,Stem-and-Leaf Plot ,2
+367,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/splom.html,scatter plot,Automobile Data,Scatter Plot ,2
+368,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/parallel.html,parallel plot,Automobile Data,Parallel Coordinates,2
+369,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/tree.html,Tree,The Flare package tree,Tree chart,4
+370,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/indent.html,Json,The Flare package tree,Indent chart,4
+371,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/sunburst.html,Sector Tree,The Flare package tree,sunburst chart,4
+372,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/treemap.html,Block Tree,The Flare package tree,Treemap chart,4
+373,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/pack.html,Circle Tree,The Flare package tree,Pack chart,4
+374,https://homes.cs.washington.edu/~jheer//files/zoo/ex/networks/matrix.html,Matrix,Les Misérables character interaction ,Matrix graph,5
+375,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/index-chart.html,Line plot,Stock increase,Index Chart ,1
+376,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/stack.html,Stack plot,Unemployment ,Stacked Graph,1
+377,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/qqplot.html,Q-Q Plot,Mechanical Turk Participation Rates,Q-Q Plot,2
+378,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/splom.html,Scatter Plot Matrix,Automobile Data,Scatter Plot ,2
+379,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/choropleth.html,Choropleth Map,Obesity in the United States (1995 to 2008),Choropleth Map ,3
+380,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/symbol.html,Graduated Symbol Map,Obesity in the United States (1995 to 2008),Graduated Symbol Map,3
+381,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/cartogram.html,Dorling Cartogram,Obesity in the United States (1995 to 2008),Dorling Cartogram,3
+382,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/tree.html,Tree chart,The Flare package tree,Tree chart,4
+383,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/cluster-radial.html,Radial chart,The Flare package tree,cluster-radial chart,4
+384,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/treemap.html,Treemap,The Flare package tree,Treemap chart,4
+385,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/pack.html,Circle ,The Flare package tree,Pack chart,4
+386,https://homes.cs.washington.edu/~jheer//files/zoo/ex/networks/force.html,directed graph,Les Misérables character interaction ,Force directed graph,5
+387,https://homes.cs.washington.edu/~jheer//files/zoo/ex/networks/arc.html,Arc graph,Les Misérables character interaction ,Arc graph,5
+388,https://homes.cs.washington.edu/~jheer//files/zoo/ex/networks/matrix.html,Matrix graph,Les Misérables character interaction ,Matrix graph,5
+389,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Index Chart,Line Graph,Index Chart of Certain Technology Stocks,1
+390,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Unemployed US Workers by Industry,Stacked Graph,Stacked Graph of Unemployed U.S. workers by industry,1
+391,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,Unemployment Rate of US workers by industry 2000-10,"Don't know (Guessed wave 
+graph)","Frequency Plots of 
+Unemployment Rate 
+for US Workers 
+2000-10",1
+392,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,U.S. Unemployment Rate,Horizon Graph,"Horizon Graphs of U.S.
+Unemployment Rate,
+2000-2010",1
+393,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Mechanical Turk Participation rates,Stem and leaf plot,"Stem-and-Leaf Plot of 
+Mechanical Turk
+Participation Rates",2
+394,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Mechanical Turk Participation rates,QQ Plot,"Q-Q Plot of 
+Mechanical Turk
+Participation Rates",2
+395,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Automobile data,Scatter plots,"Scatterplot of 
+Automobile Data",2
+396,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,Automobile data,Parallel Coordinates,"Parallel Coordinates
+of Automobile Data",2
+397,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,Marching path data,"Flow Map of 
+Napoleon's March
+ on Moscow","Flow Map of 
+Napoleon's
+March on Moscow",3
+398,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Obesity data,"Chropleth Map of 
+Obesity in the US","Choropleth Map
+of Obesity in the US
+(1995-2008)",3
+399,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Obesity in the US,"Graduated Symbol 
+map","Graduated Symbol 
+Map of Obesity in the
+US (1995-2008)",3
+400,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,Obesity Percentage in the USA by State,Cartogram,"Dorling Cartogram of 
+Obesity in the
+US (1995-2008)",3
+401,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,Flare package,Node-link tree,"Flare package tree,
+laid out in horizontal
+layers",4
+402,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,Variables and Workflow for Database Backend,Radial Cluster,"Flare package laid out
+in radial layers",4
+403,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,Flare Visualization Toolkit,Flare Package Tree,"Flare package laid out
+in an indented tree",4
+404,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,Database Workflow Visualization,Icicle Tree,"Flare package labeled
+in horizontal layers",4
+405,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,Selected Technology Stocks,Index Chart,Sunburst Tree,4
+406,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,Flare Package Tree,Flare Package Tree,"Flare Package tree, 
+labeled in sub-divided
+rectangles",4
+407,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,Flare tree,Bubble Chart,Nested Circles,4
+408,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,Cluster Interactions,Le Miserables Force,Force Directed Graph,5
+409,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,"Character interactions between 
+Les Miserables",I Don't know,"Measuring 
+appearances of 
+character in Les 
+Miserables, lines
+represent
+co-occurences
+",5
+410,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,"Character interactions between 
+Les Miserables",I don't know,Interaction Matrix,5
+411,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Stock Gains/Losses,Multiple Line Chart,"Index Chart of Certain
+Technology Stocks",1
+412,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Unemployed U.S. Workers,Stacked Graph,"Stacked Graph of 
+Unemployed U.S.
+workers by industry",1
+413,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,Unemployment Rate,Area Graph,"Frequency Plots of 
+Unemployment Rate 
+for US Workers 
+2000-10",1
+414,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,"Horizon Grpahs of U.S. Unemployment 
+Rate 2000-2010",Horizon Graphs,"Horizon Graphs of 
+U.S.
+Unemployment Rate,
+2000-2010",1
+415,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Participation rate distribution,Stem and leaf plot,"Stem-and-Leaf Plot of 
+Mechanical Turk
+Participation Rates",2
+416,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,"Q-Q Plot of Mechanical Turk Participation
+Rates",Q-Q Plot,"Q-Q Plot of 
+Mechanical Turk
+Participation Rates",2
+417,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Scatterplot Matrix of Automobile Data,"Showcases a presence or lack linear correlation between the vairables of horsepower, weight, acceleration, displacement by various countries.","Scatterplot of 
+Automobile Data",2
+418,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,Parallel Coordinates of Automobile Data,Parallel Coordinates,"Parallel Coordinates
+of Automobile Data",2
+419,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,Flow map of Napoleon's march on Moscow,Flow Map,"Flow Map of 
+Napoleon's
+March on Moscow",3
+420,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Color coded maps of obesity rates by state over time,Heatmap with slider for time,"Choropleth Map
+of Obesity in the US
+(1995-2008)",3
+421,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Pie charts of obesity rates by state,"Shows the proportion of people who are normal, overweight, and obese in each state ","Graduated Symbol 
+Map of Obesity in the
+US (1995-2008)",3
+422,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,"Dorling Cartogram of Obesity in the United
+States (1995-2008)",Dorling Cartogram,"Dorling Cartogram of 
+Obesity in the
+US (1995-2008)",3
+423,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,"Flare packacge tree laid out in horizontal
+layers",Tree with nodes,"Flare package tree,
+laid out in horizontal
+layers",4
+424,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,Flare Package Radial Layers,Node Tree,"Flare package laid out
+in radial layers",4
+425,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,Componentes of flare package,Expanded view of nested tree,"Flare package laid out
+in an indented tree",4
+426,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,Flare package in horizontal layers,Don't know,"Flare package labeled
+in horizontal layers",4
+427,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,Pie breakdown of flare.vis.data,"Proportional Pie
+Chart",Sunburst Tree,4
+428,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,Flare package in sub-divided rectangles,Don't know,"Flare Package tree, 
+labeled in sub-divided
+rectangles",4
+429,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,"Flare package in 
+Recursively packed circles",Recursive Circles,Nested Circles,4
+430,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,"Force directed graph for character 
+interaction in Les Miserables","Force Dirtected 
+Graph",Force Directed Graph,5
+431,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,"Appearances of characters in Les 
+Miserables, arches representing
+co-occurences",Don't know,"Measuring 
+appearances of 
+character in Les 
+Miserables, lines
+represent
+co-occurences
+",5
+432,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,Character Interactions in Les Miserables,Interaction Matrix,Interaction Matrix,5
+433,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Line Chart,Stock Price Plot ,Line Chart,1
+434,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Stacked Graph,Unemployed US workers Stacked Graph,Stacked Graph,1
+435,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,Hisgrams,Multiple hisgram of Unemployment Ratio,Multiples,1
+436,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,horizon graph,US unemployment rate horizon graphs,Horizon Graph,1
+437,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Table,mTurk participation rates,Steam-and-leaf Plot,2
+438,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Line Chart,mTurk Participation Ratio ,Q-Q Plot,2
+439,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Scatterplots,Automobile parameter scatter plots,Scatterplot Matrix,2
+440,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,I don't know,Cars with different parameters,Parallel Coordinates,2
+441,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,Map,Map of river on Moscow,Flow Map,3
+442,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Map,Map of Obesity in US by states,Choropleth Map,3
+443,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,Pie Chart on Map,Map of obesity in US states with detailed categorization,Area Chart,3
+444,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,Scatter Plot,Obesity in US states shown in dot plot,Area Chart,3
+445,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,B Tree ,I don't know,Radial Node-Link Diagram,4
+446,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,I don't know,I don't know,Polar Coordinate Node-Link,4
+447,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,I don't know,I don't know,Indent Tree,4
+448,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,industry-wise employment trends,small multiples,small multiples,1
+449,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,mechanical turk task group completion quantile chart,quantile chart,Q-Q plot,2
+450,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,index chart of selected tecgnology stocks,index chart,Index chart/line chart,1
+451,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,industry-based stacked graph for unemployed US workers,stacked graph,stacked graph,1
+452,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,Napoleon's invasion route map,route map,flow map / mpa,3
+453,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Obesity Heatmap of the US,Heatmap ,choroploth map,3
+454,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,unemployment rate,idk,horizon graph,1
+455,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,stocks trend,index graph,Index chart/line chart,1
+456,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,package source map,layer tree ,indent tree,4
+457,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,turkers' task completion QQ plot,QQ plot,Q-Q plot,2
+458,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,character relationship,matrix,matrix view,5
+459,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,unemployment rate,idk,horizon graph,1
+460,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,US Obesity Trends Choropleth Map,Choropleth Map,choroploth map,3
+461,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,U.S. obesity area chart,area chart,Dorling Cartogram/area chart,3
+462,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,turk participation rates,idk,stem-and-leaf plot,2
+463,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,automobile data,scatterplot,Splom / scatterplot matrix,2
+464,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,package relationship,hierarchies,nested circle,4
+465,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,tech stock trends,line chart,Index chart/line chart,1
+466,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,obesity density chart,area chart,Dorling Cartogram/area chart,3
+467,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,mechanical turk participation distribution plot,distribution plot,Q-Q plot,2
+468,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,package inheritance relationship,idk,polar coordinates node-link / tree,4
+469,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,US obesity,idk,choroploth map,3
+470,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,U.S. unemployment rates by sector (2000-2010),small multiples plot,small multiples,1
+471,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,idk,idk,parallel Coordinates,2
+472,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,flowchart of Napoleon's march on Moscow,flow chart ,flow map / mpa,3
+473,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,unemployment rate,Horizon Plot,horizon graph,1
+474,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,automobile data,scatterplot,Splom / scatterplot matrix,2
+475,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,organizational hierarchy,tree,Radial node-link diagram / tree,4
+476,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,package size,treemap,treemap,4
+477,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,selected tech stocks trend chart,line chart,Index chart/line chart,1
+478,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,quantile-quantile plot of mechanical turk participation,quantile-quantile plot,Q-Q plot,2
+479,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,layered unemployment graph: US workers by sector,layered graph,stacked graph,1
+480,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,package nested relationship,nested circle,nested circle,4
+481,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Stock Graph,Sector stocks growth,,1
+482,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,State wise obesity pie chart,Pie charts,,3
+483,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,"Horizon Graphs of U.S. Unemployment Rate, 2000-2010",Horizon Graphs,,1
+484,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,"Small Multiples of Unemployed U.S. Workers Normalized by Industry, 2000-2010",Small multiples,,1
+485,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Index Chart,Growth/Loss vs Time,,1
+486,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Stacked Graph of Unemployed U.S. Workers by Industry,stacked graph,,1
+487,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,parallel Coordinates of Automobile Data,parallel Coordinates,,2
+488,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Unemployment Rate of U.S. Workers by Industry,Line graph,,1
+489,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,Unemployment graph,Stacked Graph,Segmentation,1
+490,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,small multiples,Unemployment rate of US workers by industry,Trends,1
+491,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Stock Index chart,Loss and gain Index chart,Fluctuations,1
+492,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,Horizon Graph of unemployment,Horizon Graph,Compression,1
+493,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,Parallel Coordinates of Automobile Data,Automobile data,Specifications,2
+494,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Automobile Chart,Scatter Plot Matrix,Correlations,2
+495,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,flow map / mpa,Map ,Geography,3
+496,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,stem-and-leaf plot,Data representation in 0/1,Binary,2
+497,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,pie chart / area chart,Area chart, Volume,3
+498,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/qqplot.html,Q-Q plot of mechanical turk,Q-Q Plot,Distribution,2
+499,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,Dorling Cartogram/area chart,Area chart,Visualization,3
+500,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,choroploth map,colormap ,Frequency,3
+501,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,arc diagram,word frequency , Spread,5
+502,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Q-plot,Distribution Plot, Spread,2
+503,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,Cartogram of Obesity,Cartogram,Cartogram,3
+504,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Chloropeth Map of Obesity,Don't Know,Chloropeth,3
+505,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,Les Miserables Character Bar Graph,Bar Graph,Bar Graph,5
+506,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,Technology Stocks Index,Scatterplot,Index Chart,1
+507,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,Chloropeth Map of Obesity,Chloropeth,Chloropeth,3
+508,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,U.S. Unemployment Horizon Graph,Bar Graph,Horizon Graph,1
+509,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,Cartogram of Obesity,Cartogram,Cartogram,3
+510,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,Mechanical Turk Participation Rates,Don't Know,Stem-and-Leaf Plot,2
+511,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,Circles Layout of the Flare Package Hierarchy,Cartesian,Nested Circles Layout ,4
+512,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,Scatterplots of Automobile Data,Scatterplot,Scatterplot Matrix,2
+513,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,Node-link Diagram of the Flare Package Hierarchy,Don't Know,Node-link Diagram,4
+514,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,Sunburst of the Flare Package Hierarchy,Sunburst,Sunburst,4
