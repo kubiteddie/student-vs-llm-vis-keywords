@@ -8,7 +8,6 @@ def rollup_group(category, subset):
     corpuslist = list(subset.split(" "))
     for term in corpuslist:
         counts[term] += 1
-    print(counts)
     countsDF = pd.DataFrame.from_dict(counts.items())
     countsDF.to_csv(outfile.format(category), index=False)
 
