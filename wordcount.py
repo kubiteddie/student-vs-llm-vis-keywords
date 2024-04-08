@@ -10,7 +10,7 @@ def rollup_group(category, subset):
         counts[term] += 1
     print(counts)
     countsDF = pd.DataFrame.from_dict(counts.items())
-    countsDF.to_csv(outfile.format(category))
+    countsDF.to_csv(outfile.format(category), index=False)
 
 if __name__ == "__main__":
     classdata = pd.read_csv("datastore/intermediate_categories.csv")
