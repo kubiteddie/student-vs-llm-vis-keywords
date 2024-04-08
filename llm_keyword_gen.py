@@ -23,7 +23,7 @@ def keyword_query(co, query):
         message = query,
         model="command",
         temperature=1
-    )
+        )
     return response
 
 def get_keywords(co, dataSubset, numKeywords):
@@ -31,8 +31,8 @@ def get_keywords(co, dataSubset, numKeywords):
     keyword_responses = []
     vis_tuples = []
     for category, subset in dataSubset.items():        
-        vis_tuples.append((subset['VisType'], subset['Caption']))
-    keyword_responses = [keyword_query(co, query.format(numKeywords, tuples)) for tuples in vis_tuples]
+        vis_tuples.append((subset['VisType'], subset['Team Generated Caption']))
+    keyword_responses = keyword_query(co, query.format(numKeywords, vis_tuples))
     return keyword_responses
 
 def get_vis_groups(dataframe):
@@ -46,5 +46,7 @@ if __name__ == '__main__':
     co = cohere_init()
     groundDF = pd.read_csv("datastore/vis-ground-truth.csv").drop(columns=['VisualizationLink', 'ImageLink', 'Image'])
     groundGroups, categories = get_vis_groups(groundDF)
-    keywordSets = [{category[0]: get_keywords(1, groundGroups[category[0]], 10)} for category in categories]
+    keywordSets = {category[0]: get_keywords(co, groundGroups[category[0]], 10) for category in categories}
+    answers = pd.DataFrame.from_dict(keywordSets)
+    answers.to_csv("datastore/llm_answers.csv", index = 0)
     print(keywordSets)
