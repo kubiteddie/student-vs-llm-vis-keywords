@@ -46,5 +46,5 @@ if __name__ == '__main__':
     co = cohere_init()
     groundDF = pd.read_csv("datastore/vis-ground-truth.csv").drop(columns=['VisualizationLink', 'ImageLink', 'Image'])
     groundGroups, categories = get_vis_groups(groundDF)
-    keywordSets = [{category[0]: get_keywords(1, groundGroups[category[0]])} for category in categories]
+    keywordSets = [{category[0]: get_keywords(1, groundGroups[category[0]], 10)} for category in categories]
     print(keywordSets)
