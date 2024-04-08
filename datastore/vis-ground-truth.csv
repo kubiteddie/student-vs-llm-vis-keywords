@@ -1,0 +1,23 @@
+VisualizationID,VisualizationLink,ImageLink,Image,VisType,Caption,Category
+1A,Index Chart,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Index chart/line chart,An index chart of stock prices. This is from the year 2000,1
+1B,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/stack.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,stacked graph,,1
+1C,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/multiples.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,small multiples,,1
+1D,https://homes.cs.washington.edu/~jheer//files/zoo/ex/time/horizon.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,horizon graph,,1
+2A,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/stem-and-leaf.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,stem-and-leaf plot,,2
+2B,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/qqplot.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Q-Q plot,,2
+2C,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/splom.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Splom / scatterplot matrix,,2
+2D,https://homes.cs.washington.edu/~jheer//files/zoo/ex/stats/parallel.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,parallel Coordinates,,2
+3A,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/napoleon.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,flow map / mpa,,3
+3B,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/choropleth.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,choropleth map,,3
+3C,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/symbol.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,pie chart / area chart,,3
+3D,https://homes.cs.washington.edu/~jheer//files/zoo/ex/maps/cartogram.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Dorling Cartogram/area chart,,3
+4A,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/tree.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Radial node-link diagram / tree,,4
+4B,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/cluster-radial.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,polar coordinates node-link / tree,,4
+4C,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/indent.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,indent tree,,4
+4D,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/icicle.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,icicle tree,,4
+4E,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/sunburst.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,sunburst,,4
+4F,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/treemap.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,treemap,,4
+4G,https://homes.cs.washington.edu/~jheer//files/zoo/ex/hierarchies/pack.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,nested circle,,4
+5A,https://homes.cs.washington.edu/~jheer//files/zoo/ex/networks/force.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,force-directed layout,,5
+5B,https://homes.cs.washington.edu/~jheer//files/zoo/ex/networks/arc.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,arc diagram,,5
+5C,https://homes.cs.washington.edu/~jheer//files/zoo/ex/networks/matrix.html,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,matrix view,,5

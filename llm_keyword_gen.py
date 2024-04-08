@@ -21,8 +21,23 @@ def cohere_init():
     return co
 
 def get_keywords(co, dataSubset):
-   pass 
+    query = "The following array holds tuples that represent the type of a data visualization and a caption for that visualization in the form of (Type, Caption). Can you generate {} keywords that describe them? {}."
+    keyword_responses = []
+    vis_tuples = []
+    for category, subset in dataSubset.items():        
+        vis_tuples.append((subset['VisType'], subset['Caption']))
+    return query.format(5, vis_tuples)
+
+def get_vis_groups(dataframe):
+    groupDict = dict()
+    dataframe = dataframe.groupby(by=['Category'])
+    for value in dataframe['Category'].unique():
+        groupDict[value[0]] = dataframe.get_group(value[0]).to_dict(orient='index')
+    return groupDict, dataframe['Category'].unique()
 
 if __name__ == '__main__':
-    co = cohere_init()
-    classdata = pd.read_csv("datastore/class-data-collection.csv")
+    #co = cohere_init()
+    groundDF = pd.read_csv("datastore/vis-ground-truth.csv").drop(columns=['VisualizationLink', 'ImageLink', 'Image'])
+    groundGroups, categories = get_vis_groups(groundDF)
+    keywordSets = [{category[0]: get_keywords(1, groundGroups[category[0]])} for category in categories]
+    print(keywordSets)
