@@ -9724,66 +9724,6 @@
         },
         {
             "llm_keyword": "Representation",
-            "student_term": "/",
-            "similiarity": 0.15478659404551584,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Organization",
-            "student_term": "/",
-            "similiarity": 0.13470099535510763,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Distributions",
-            "student_term": "/",
-            "similiarity": 0.24943947152804427,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Quantities",
-            "student_term": "/",
-            "similiarity": 0.1376199061358211,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Axes",
-            "student_term": "/",
-            "similiarity": 0.13347740702803568,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Relationships",
-            "student_term": "/",
-            "similiarity": 0.12287295126482196,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Patterns",
-            "student_term": "/",
-            "similiarity": 0.13911068132555848,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Metaphors",
-            "student_term": "/",
-            "similiarity": -0.026347095618247218,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Labels",
-            "student_term": "/",
-            "similiarity": 0.24948462770996546,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Insight",
-            "student_term": "/",
-            "similiarity": 0.07188027353638349,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Representation",
             "student_term": "weave",
             "similiarity": -0.05492492290414405,
             "count": 1
@@ -10381,66 +10321,6 @@
             "student_term": "task",
             "similiarity": 0.22460249724901812,
             "count": 3
-        },
-        {
-            "llm_keyword": "Representation",
-            "student_term": NaN,
-            "similiarity": -0.007503735296569247,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Organization",
-            "student_term": NaN,
-            "similiarity": -0.0486970880002085,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Distributions",
-            "student_term": NaN,
-            "similiarity": -0.08023516025063061,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Quantities",
-            "student_term": NaN,
-            "similiarity": -0.09717927542372426,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Axes",
-            "student_term": NaN,
-            "similiarity": 0.005369259603386372,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Relationships",
-            "student_term": NaN,
-            "similiarity": -0.041471618672552,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Patterns",
-            "student_term": NaN,
-            "similiarity": -0.09241735426833347,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Metaphors",
-            "student_term": NaN,
-            "similiarity": -0.006618756050034891,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Labels",
-            "student_term": NaN,
-            "similiarity": -0.10480251381616383,
-            "count": 1
-        },
-        {
-            "llm_keyword": "Insight",
-            "student_term": NaN,
-            "similiarity": -0.07939268598389455,
-            "count": 1
         },
         {
             "llm_keyword": "Representation",
@@ -20765,66 +20645,6 @@
             "student_term": "trees",
             "similiarity": 0.14160107721638018,
             "count": 1
-        },
-        {
-            "llm_keyword": "Node-link",
-            "student_term": NaN,
-            "similiarity": -0.07163913725479154,
-            "count": 3
-        },
-        {
-            "llm_keyword": "Radial",
-            "student_term": NaN,
-            "similiarity": -0.09186916234176007,
-            "count": 3
-        },
-        {
-            "llm_keyword": "Indented",
-            "student_term": NaN,
-            "similiarity": -0.050268538837904955,
-            "count": 3
-        },
-        {
-            "llm_keyword": "Icicle",
-            "student_term": NaN,
-            "similiarity": -0.0039032359396742175,
-            "count": 3
-        },
-        {
-            "llm_keyword": "Sunburst",
-            "student_term": NaN,
-            "similiarity": -0.09442744909061854,
-            "count": 3
-        },
-        {
-            "llm_keyword": "Treemap",
-            "student_term": NaN,
-            "similiarity": 0.0,
-            "count": 3
-        },
-        {
-            "llm_keyword": "Nested",
-            "student_term": NaN,
-            "similiarity": -0.09011494832950528,
-            "count": 3
-        },
-        {
-            "llm_keyword": "Concentric",
-            "student_term": NaN,
-            "similiarity": -0.0686968198786022,
-            "count": 3
-        },
-        {
-            "llm_keyword": "Cluster",
-            "student_term": NaN,
-            "similiarity": -0.07006394679255841,
-            "count": 3
-        },
-        {
-            "llm_keyword": "Circular",
-            "student_term": NaN,
-            "similiarity": -0.07468629556881812,
-            "count": 3
         },
         {
             "llm_keyword": "Node-link",
