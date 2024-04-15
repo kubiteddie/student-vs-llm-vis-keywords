@@ -1,15 +1,16 @@
 import json
-import pandas
+import pandas as pd
 
 score_threshold = 0.25
 
 f = open('./datastore/finalsimscores.json', "r")
 data = json.load(f)
 
-keywords = pandas.read_csv('./datastore/llm_answers_clean.csv')
+keywords = pd.read_csv('./datastore/llm_answers_clean.csv')
 
 out = []
 header_info = []
+
 
 for i, category in enumerate(data):
   category_keywords = keywords.loc[i, :].values.tolist()
