@@ -38,5 +38,5 @@ for i, category in enumerate(data):
 
 json_out = {'headers': header_info, 'data': out}
 
-with open("./datastore/filtered_sim_scores.json", "w") as outfile:
-  json.dump(json_out, outfile)
+with open("./datastore/filtered_sim_scores_stem.json", "w") as outfile:
+  json.dump(json_out, outfile, indent=4)
