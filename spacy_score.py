@@ -36,6 +36,6 @@ if __name__ == "__main__":
     llmkeywords, wordcounts = read_data()
     nlp = spacy.load("en_core_web_lg")
     enddata = calculate_scores(llmkeywords, wordcounts, nlp)
-    with open('datastore/finalsimscores.json', 'w') as file:
+    with open('datastore/finalsimscores_stem.json', 'w') as file:
         json.dump(enddata, file, indent=4)
     

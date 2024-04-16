@@ -1,0 +1,604 @@
+CSE5544 student Name,dotID,AgeRange,Gender,CountryOfOrigin,Department,Grade level,DateOfSurvey,LocationOfSurvey,ImageViewed URL (please copy Column C in the next tab),Image,Task1Naming,Task1Meaning,Task1 Ground Truth,Vis Category
+Jinsu Yoo,503,25~30,M,Korea,CSE,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,absolute chart,compare positive/negative impact,Horizon Graph,1
+Cheng Yu,3500,30~35,Male,Taiwan,Dentistry,MS student,2/13/2024,RPAC,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,area chart,,Stacked Graph,1
+Ansh Jain,849,24,Male,USA,CSE,Postgraduate,2/13/2024,Neil Ave,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Area Chart,Dorling Cartogram/area chart,Dorling Cartogram/Area Chart,3
+Ansh Jain,849,23,Male,China,ISE,Undergraduate,2/13/2024,Baker System,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Area Graph,treemap,Treemap Layout,4
+Cheng Yu,3500,30~35,Male,USA,ECE,PhD student,2/12/2024,off campus,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,area map,,Choropleth Map,3
+Cheng Yu,3500,20~25,Male,USA,Medical,Undergraduate junior,2/13/2024,RPAC,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,area curve,,Horizon Graph,1
+Ansh Jain,849,23,Male,China,ECE,Postgraduate,2/13/2024,Baker System,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,Bar Chart,icicle tree,Icicle Tree,4
+Chris Stanulet,1,20-25,F,USA,Bio Chem,Undergrad,2/14/2024,Off Campus Apartment,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,Bar chart,icicle tree,Icicle Tree,4
+Cole Parker,1331,19,Male,USA,Geography,Junior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Bar Graph,,Small Multiples,1
+Cole Parker,1331,20,Female,USA,Health Science,Sophomore,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,Bar Graph,,Indented Tree,4
+Cole Parker,1331,19,Female,USA,Psychology,Freshman,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,Bar Graph,,Icicle Tree,4
+Eddie Kubit,7,20-25,Male,USA,MAE,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Best fit line scatter plot,Q-Q plot,Q-Q plot,2
+Chris Stanulet,1,20-25,F,USA,Bio Chem,Undergrad,2/14/2024,Off Campus Apartment,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,Bullet point chart,Indented tree,Indented Tree,4
+Eddie Kubit,7,20-25,M,USA,CSE,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Car data similarity matrix,Splom / scatterplot matrix,Splom / scatterplot matrix,2
+Eddie Kubit,7,20-25,Male,USA,CEGE,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,Categoried-web chart,force-directed layout,force-directed layout,5
+Chris Stanulet,1,20-25,F,USA,English,Undergrad,2/14/2024,Off Campus Apartment,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Cell chart,Nested circle,Nested Circles Tree,4
+Eddie Kubit,7,20-25,F,USA,Communications,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Chaotic pie graph,sunburst,Sunburst Tree,4
+Chris Stanulet,1,20-25,F,USA,Bio Chem,Undergrad,2/14/2024,Off Campus Apartment,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Circle chart,Radial node-link diagram / tree,Radial Cluster Diagram,4
+Cole Parker,1331,19,Female,USA,Arts + Science,Sophomore,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Circle Graph,,Dorling Cartogram/Area Chart,3
+Eddie Kubit,7,20-25,Male,USA,CEGE,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Circular branch chart,polar coordinates node-link / tree,Radial Cluster Diagram,4
+Eddie Kubit,7,20-25,M,USA,BME,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Circular tree diagram,polar coordinates node-link / tree,Radial Cluster Diagram,4
+Eddie Kubit,7,20-25,Male,USA,MAE,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,Comparison Grid,matrix view,matrix view,5
+Cole Parker,1331,21,Genderfluid,USA,Anthropology,Senior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Completion percentages Turkers Amazon's Mechanical Turk,,Stem-and-Leaf plot,2
+Satyaki Roy Chowdhury,207,20-25,M,India,CSE,Masters,02/14/2024,Dresse Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Complition Distribution,Q-Q Plot,Q-Q plot,2
+Garrison Smith,15204,~20,M,USA,CIS,Undergrade,2/12/24,Knowlton Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Complition Distribution,Q-Q Plot,Q-Q plot,2
+Ansh Jain,849,23,Male,India,CSE,Postgraduate,2/13/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,Connected Graph,Force-directed layout,force-directed layout,5
+Eddie Kubit,7,20-25,F,USA,Public Affairs,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,Connection chart,arc diagram,arc diagram,5
+Cheng Yu,3500,20~25,Female,Taiwan,CSE,MS student,2/15/2024,Online ,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,correlation map,,Q-Q plot,2
+Eddie Kubit,7,20-25,Male,USA,CEGE,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Cumulative bar graph,small multiples,Small Multiples,1
+Ansh Jain,849,26,Female,India,SMF,Postgraduate,2/13/2024,Neil Ave,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Data Plot,Q-Q plot,Q-Q plot,2
+Eddie Kubit,7,20-25,F,USA,Communications,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,data source,indent tree,Indented Tree,4
+Sooyoung Jeon,193,24,F,South Korea,CE,Undergraduate,2/14/24,Thomson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Density Map,,Choropleth Map,3
+Ansh Jain,849,21,Male,USA,Chemical,Senior,2/13/2024,18th Ave,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,Distance travelled graph,flow map / mpa,flow map / mpa,3
+Ansh Jain,849,19,Female,USA,Biology,Sophomore,2/13/2024,Neil Ave,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Distribution,stem-and-leaf plot,Stem-and-Leaf plot,2
+Jinsu Yoo,503,30~35,M,Korea,CSE,MS student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,distribution map,relationship between two variables,Splom / scatterplot matrix,2
+Jinsu Yoo,503,25~30,M,China,CSE,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,dorling cartogram,percentage of population,Dorling Cartogram/Area Chart,3
+Eddie Kubit,7,20-25,M,USA,Finance,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Dorling Cartogram,Dorling Cartogram/area chart,Dorling Cartogram/Area Chart,3
+Jinsu Yoo,503,25~30,F,Korea,CSE,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,dot graph,distribution of data,Splom / scatterplot matrix,2
+Cole Parker,1331,18,Female,USA,Biology,Junior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Dots best line fit,,Splom / scatterplot matrix,2
+Eddie Kubit,7,20-25,M,USA,Finance,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,Family Tree,icicle tree,Icicle Tree,4
+Ansh Jain,849,27,Prefer not to say,USA,Chemical Engineering,PHD,2/13/2024,Neil Ave,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,File Hierarchy,indent tree,Indented Tree,4
+Chris Stanulet,1,20-25,M,USA,CSE,Undergrad,2/14/2024,Enarson,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,File structure,Indented tree,Indented Tree,4
+Cole Parker,1331,20,Female,USA,Psychology/Data Analytics,Sophomore,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Flare Chart,,Sunburst Tree,4
+Eddie Kubit,7,20-25,F,USA,nursing,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,flare sphere,nested circle,Nested Circles Tree,4
+Chris Stanulet,1,20-25,F,USA,English,Undergrad,2/14/2024,Off Campus Apartment,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Floor plan,Tree map,Treemap Layout,4
+Cole Parker,1331,20,Female,USA,Psychology/Data Analytics,Sophomore,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,Flow map,,flow map / mpa,3
+Ansh Jain,849,21,Male,USA,Data analytics,Undergraduate,2/13/2024,Neil Ave,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,Flow Map,Flow Map,flow map / mpa,3
+Chris Stanulet,1,20-25,M,USA,ECE,Undergrad,2/14/2024,Smith Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Geologic heat map,Chloroploth Map,Choropleth Map,3
+Ansh Jain,849,25,Female,India,CSE,PHD,2/13/2024,Dreese,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,Graph,Arc Diagram,arc diagram,5
+Cole Parker,1331,19,Male,USA,Geography,Junior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Grouping Map,,Nested Circles Tree,4
+Cheng Yu,3500,20~25,Male,Hong Kong,ECE,MS student,2/13/2024,RPAC,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,heat map,,Choropleth Map,3
+Eddie Kubit,7,20-25,M,USA,Finance,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Heat Map,choroploth map,Choropleth Map,3
+Ansh Jain,849,20,Female,USA,CSE,Junior,2/13/2024,Neil Ave,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Heat Map,choropleth map,Choropleth Map,3
+Cole Parker,1331,20,Female,USA,Psychology/Data Analytics,Sophomore,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,Horizon Graph,,Horizon Graph,1
+Chris Stanulet,1,20-25,M,USA,CSE,Undergrad,2/14/2024,Off Campus Apartment,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,Horizon Graph,Horizon,Horizon Graph,1
+Eddie Kubit,7,20-25,F,USA,nursing,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,incontinental layers,icicle tree,Icicle Tree,4
+Jinsu Yoo,503,25~30,F,Korea,Statistics,PhD student,02/15/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,index chart,visualize two variables,Index chart/line chart,1
+Eddie Kubit,7,20-25,M,USA,CSE,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Inheritance diagram,Radial node-link diagram / tree,Node-link diagram / tree,4
+Garrison Smith,15204,~20,M,USA,CIS,Undergrade,2/2024,Knowlton Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Leaf Node Graph,Stem and Leaf Plot,Stem-and-Leaf plot,2
+Cole Parker,1331,21,Genderfluid,USA,Anthropology,Senior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,Les Miserables Character Interaction,,arc diagram,5
+Eddie Kubit,7,20-25,F,USA,Neuroscience,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,les miserables character interaction force directed graph,force-directed layout,force-directed layout,5
+Eddie Kubit,7,20-25,F,USA,nursing,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,les miserables characters bar graph,matrix view,matrix view,5
+Chris Stanulet,1,20-25,M,USA,CSE,Undergrad,2/14/2024,Off Campus Apartment,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Line,Small Multiples,Small Multiples,1
+Jinsu Yoo,503,25~30,F,Bangladesh,CSE,PhD student,02/14/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,line chart,change of unemployment,Stacked Graph,1
+Cheng Yu,3500,20~25,Female,China,CSE,MS student,2/15/2024,Online ,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,line chart,,Index chart/line chart,1
+Jinsu Yoo,503,25~30,F,Korea,CSE,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,line chart,observe trend,Index chart/line chart,1
+Jinsu Yoo,503,30~35,M,Taiwan,CSE,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,line chart,relationship between the two,Index chart/line chart,1
+Cheng Yu,3500,20~25,Male,Taiwan,ECE,MS student,2/12/2024,off campus,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,line chart,,Index chart/line chart,1
+Chris Stanulet,1,20-25,M,USA,ECE,Undergrad,2/14/2024,Smith Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line chart,Line chart,Index chart/line chart,1
+Eddie Kubit,7,20-25,Male,USA,MAE,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,Line Correlation Chart,arc diagram,arc diagram,5
+Sooyoung Jeon,193,24,F,South Korea,CE,Undergraduate,2/14/24,Thomson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Line Graph,,Q-Q plot,2
+Chris Stanulet,1,20-25,F,USA,CSE,Masters,2/14/2024,Enarson,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line Graph,Line chart,Index chart/line chart,1
+Sooyoung Jeon,193,27,M,USA,CSE,Graduate,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line Graph,,Index chart/line chart,1
+Sooyoung Jeon,193,26,M,South Korea,CSE,Undergraduate,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Linear Graph,,Q-Q plot,2
+Sooyoung Jeon,193,26,F,South Korea,CE,Undergraduate,2/14/24,Thomson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Linear Plot,,Q-Q plot,2
+Cole Parker,1331,21,Female,USA,Psychology,Senior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,Map,,flow map / mpa,3
+Cole Parker,1331,23,Male,USA,Economics,Senior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Map Chart,,Choropleth Map,3
+Chris Stanulet,1,20-25,F,USA,English,Undergrad,2/14/2024,Off Campus Apartment,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Map graph,Pie chart/ area chart,Graduated Symbol Map,3
+Cole Parker,1331,21,Genderfluid,USA,Anthropology,Senior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Obesity population map,,Graduated Symbol Map,3
+Ansh Jain,849,25,Male,China,ECE,Postgraduate,2/13/2024,Neil Ave,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,Matrix,Matrix view,matrix view,5
+Ansh Jain,849,20,Male,USA,CSE,Undergraduate,2/13/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,Matrix Graph,matrix view,matrix view,5
+Eddie Kubit,7,20-25,F,USA,EHE,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Mechanical Turk Participation Rates,stem-and-leaf plot,Stem-and-Leaf plot,2
+Cheng Yu,3500,20~25,Female,China,CSE,MS student,2/15/2024,Online ,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,multiple pie chart,,Graduated Symbol Map,3
+Eddie Kubit,7,20-25,F,USA,Communications,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,Napoleans March,flow map / mpa,flow map / mpa,3
+Eddie Kubit,7,20-25,F,USA,EHE,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,Napoleons March on Moscow,flow map / mpa,flow map / mpa,3
+Jinsu Yoo,503,25~30,F,Korea,CSE,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,network graph,relationship,Radial Cluster Diagram,4
+Jinsu Yoo,503,25~30,F,Bangladesh,CSE,PhD student,02/14/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,neural network,conditional graph,parallel Coordinates,2
+Jinsu Yoo,503,25~30,F,Korea,CSE,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,neural network,i don't know,parallel Coordinates,2
+Ansh Jain,849,20,Female,USA,ECE,Undergraduate,2/13/2024,Bakers,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,Nodal Analysis,Force-directed layout,force-directed layout,5
+Ansh Jain,849,22,Female,South Korea,Finance,Undergraduate,2/13/2024,Fisher College,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,Nodal Graph,arc diagram,arc diagram,5
+Cole Parker,1331,20,Female,USA,Psychology/Data Analytics,Sophomore,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,Node chart,,force-directed layout,5
+Satyaki Roy Chowdhury,207,20-25,M,India,ECE,Masters,02/13/2024,Dresse Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Number Graph,Stem and Leaf Plot,Stem-and-Leaf plot,2
+Eddie Kubit,7,20-25,F,USA,nursing,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,obesity,pie chart / area chart,Graduated Symbol Map,3
+Eddie Kubit,7,20-25,F,USA,Public Affairs,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Obesity United States,Dorling Cartogram/area chart,Dorling Cartogram/Area Chart,3
+Satyaki Roy Chowdhury,207,20-25,M,India,ECE,Masters,02/12/2024,Dresse Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Obesity Map,Choroploth Map,Choropleth Map,3
+Ansh Jain,849,23,Male,India,ISE,Postgraduate,2/13/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Obesity Map,choroploth map,Choropleth Map,3
+Eddie Kubit,7,20-25,F,USA,Public Affairs,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Obesity per State,choroploth map,Choropleth Map,3
+Eddie Kubit,7,20-25,M,USA,BME,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Obesity percentages USA,pie chart / area chart,Graduated Symbol Map,3
+Chris Stanulet,1,20-25,M,USA,Psycology,Undergrad,2/14/2024,Halloran Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Obesity rates dot graph,area chart,Dorling Cartogram/Area Chart,3
+Chris Stanulet,1,20-25,M,USA,CSE,Undergrad,2/14/2024,Off Campus Apartment,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Obesity rates dot graph,area chart,Dorling Cartogram/Area Chart,3
+Cole Parker,1331,21,Genderfluid,USA,Anthropology,Senior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Organization parent child classes,,Sunburst Tree,4
+Eddie Kubit,7,20-25,Male,USA,CEGE,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,Packaged-list chart,indent tree,Indented Tree,4
+Ansh Jain,849,25,Male,UAE,CSE,Postgraduate,2/13/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Parallel Coordinates,Parallel Coordinates,parallel Coordinates,2
+Eddie Kubit,7,20-25,M,USA,BME,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Parallel Coordinates Automobile Data,parallel Coordinates,parallel Coordinates,2
+Eddie Kubit,7,20-25,F,USA,Neuroscience,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,parallel Coordinates Automobile Data,parallel Coordinates,parallel Coordinates,2
+Cole Parker,1331,21,Female,USA,Psychology,Senior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Parallel Correlation,,parallel Coordinates,2
+Ansh Jain,849,24,Female,India,Economics,Postgraduate,2/13/2024,Neil Ave,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Pie Circle,nested circle,Nested Circles Tree,4
+Jinsu Yoo,503,25~30,F,Bangladesh,CSE,PhD student,02/14/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,pie chart,show percentage,Graduated Symbol Map,3
+Cole Parker,1331,22,Male,China,ISE,Senior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Pie Chart,,Graduated Symbol Map,3
+Jinsu Yoo,503,25~30,M,Korea,Statistics,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,pie chart,percentage,Graduated Symbol Map,3
+Jinsu Yoo,503,30~35,M,Korea,CSE,MS student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,pie chart,nested proportion,Graduated Symbol Map,3
+Jinsu Yoo,503,25~30,F,Korea,CSE,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,pie chart,visualize percentage,Graduated Symbol Map,3
+Sooyoung Jeon,193,24,F,South Korea,CE,Undergraduate,2/14/24,Thomson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Pie Chart,,Graduated Symbol Map,3
+Cheng Yu,3500,20~25,Female,Taiwan,CSE,MS student,2/15/2024,Online ,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,pie chart,,Graduated Symbol Map,3
+Chris Stanulet,1,20-25,M,USA,CSE,Undergrad,2/14/2024,Off Campus Apartment,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Pie chart,Pie chart/ area chart,Graduated Symbol Map,3
+Eddie Kubit,7,20-25,Male,USA,MAE,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Pie Chart Breakdown,sunburst,Sunburst Tree,4
+Ansh Jain,849,22,Female,France,SMF,Postgraduate,2/13/2024,Neil Ave,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Pie Map,pie chart / area chart,Graduated Symbol Map,3
+Jinsu Yoo,503,30~35,M,Korea,CSE,MS student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,pie tree,category,Radial Cluster Diagram,4
+Cole Parker,1331,18,Male,Jordan,Undecided,Freshman,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Plot Chart,,Q-Q plot,2
+Cole Parker,1331,18,Female,USA,Biology,Junior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,Plotted Co-occurrence,,arc diagram,5
+Cole Parker,1331,18,Female,USA,Biology,Junior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Plotted Line Graph,,Index chart/line chart,1
+Cheng Yu,3500,20~25,Female,China,CSE,MS student,2/15/2024,Online ,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Population map,,Choropleth Map,3
+Cheng Yu,3500,30~35,Male,Taiwan,Dentistry,MS student,2/13/2024,RPAC,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,population map,,Choropleth Map,3
+Cheng Yu,3500,20~25,Male,USA,Medical,Undergraduate junior,2/13/2024,RPAC,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,population map,,Choropleth Map,3
+Cole Parker,1331,22,Male,China,ISE,Senior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Portion Chart,,Stacked Graph,1
+Satyaki Roy Chowdhury,207,20-25,M,India,CSE,PhD,02/14/2024,Dresse Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Probablity Matrix,Scatter Plot Matrix,Splom / scatterplot matrix,2
+Garrison Smith,15204,~20,M,USA,CIS,Undergrade,2/12/24,Knowlton Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Probablity Matrix,Scatter Plot Matrix,Splom / scatterplot matrix,2
+Jinsu Yoo,503,25~30,M,China,CSE,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,q-q plot,percentage of x vs y,Q-Q plot,2
+Ansh Jain,849,24,Male,USA,ECE,Postgraduate,2/13/2024,Neil Ave,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Radial Graph,Sunburst,Sunburst Tree,4
+Ansh Jain,849,25,Female,China,ISE,Postgraduate,2/13/2024,Baker System,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Radial Tree,Radial node-link diagram / tree,Radial Cluster Diagram,4
+Chris Stanulet,1,20-25,M,USA,Psycology,Undergrad,2/14/2024,Halloran Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,Rates unumployment graph,Horizon,Horizon Graph,1
+Jinsu Yoo,503,30~35,M,Korea,CSE,PhD student,02/15/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,recursive circle,parent-child node,Nested Circles Tree,4
+Jinsu Yoo,503,30~35,M,Korea,CSE,PhD student,02/15/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,recursive rectangle,showing category,Treemap Layout,4
+Cole Parker,1331,22,Male,China,ISE,Senior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Regression Chart,,Q-Q plot,2
+Cole Parker,1331,22,Male,China,ISE,Senior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,Relation Chart,,matrix view,5
+Cole Parker,1331,20,Female,USA,Health Science,Sophomore,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Round Graph,,Radial Cluster Diagram,4
+Jinsu Yoo,503,25~30,M,China,CSE,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,scatter plot,relationship btw two variable,Splom / scatterplot matrix,2
+Cheng Yu,3500,20~25,Female,China,CSE,MS student,2/15/2024,Online ,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,scatter plot,,Splom / scatterplot matrix,2
+Cheng Yu,3500,20~25,Male,Hong Kong,ECE,MS student,2/13/2024,RPAC,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,scatter plot,,Splom / scatterplot matrix,2
+Jinsu Yoo,503,25~30,M,Korea,Statistics,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,scatter plot,scatter data,Splom / scatterplot matrix,2
+Sooyoung Jeon,193,24,F,South Korea,CE,Undergraduate,2/14/24,Thomson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatter Plot,,Splom / scatterplot matrix,2
+Sooyoung Jeon,193,26,F,South Korea,CE,Undergraduate,2/14/24,Thomson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatter Plot,,Splom / scatterplot matrix,2
+Cheng Yu,3500,25~30,Male,Taiwan,Dentistry,Visiting Scholar,2/13/2024,RPAC,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,scatter plot,,Splom / scatterplot matrix,2
+Garrison Smith,15204,~20,F,USA,ISE,Undergrade,2/14/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatter Plot,Scatter Plot Matrix,Splom / scatterplot matrix,2
+Cole Parker,1331,19,Female,USA,Psychology,Freshman,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatter Plot,,Splom / scatterplot matrix,2
+Chris Stanulet,1,20-25,M,USA,CSE,Undergrad,2/14/2024,Smith Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatter plot,Scatter Plot Matrix,Splom / scatterplot matrix,2
+Chris Stanulet,1,20-25,M,USA,CSE,Undergrad,2/14/2024,Smith Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Scatter plot,Q-Q plot,Q-Q plot,2
+Ansh Jain,849,22,Male,USA,Finance,Undergraduate,2/13/2024,Neil Ave,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatter Plot Matrix,Splom / scatterplot matrix,Splom / scatterplot matrix,2
+Eddie Kubit,7,20-25,F,USA,EHE,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatter Plot Matrix Automobile Data,Splom / scatterplot matrix,Splom / scatterplot matrix,2
+Eddie Kubit,7,20-25,M,USA,Finance,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Similarity chart,treemap,Treemap Layout,4
+Eddie Kubit,7,20-25,M,USA,BME,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Similarity chart,treemap,Treemap Layout,4
+Eddie Kubit,7,20-25,M,USA,Finance,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Similarity circle chart,nested circle,Nested Circles Tree,4
+Chris Stanulet,1,65-70,F,USA,Slavic,Undergrad,2/14/2024,Enarson,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,Some sort matrix,Matrix view,matrix view,5
+Cole Parker,1331,21,Female,USA,Psychology,Senior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Stacked Graph,,Stacked Graph,1
+Ansh Jain,849,22,Female,USA,SMF,Postgraduate,2/13/2024,Fisher College,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Stacked graph,Stacked graph,Stacked Graph,1
+Eddie Kubit,7,20-25,F,USA,Neuroscience,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Stacked Graph Unemployed U.S. Workers Industry,stacked graph,Stacked Graph,1
+Cheng Yu,3500,20~25,Male,Hong Kong,ECE,MS student,2/13/2024,RPAC,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,stacked line chart,,Stacked Graph,1
+Cole Parker,1331,19,Male,USA,Geography,Junior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Stem-and-Leaf,,Stem-and-Leaf plot,2
+Sooyoung Jeon,193,26,F,South Korea,CE,Undergraduate,2/14/24,Thomson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Stem-and-Leaf Graph,,Stem-and-Leaf plot,2
+Eddie Kubit,7,20-25,M,USA,Finance,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Stem-and-Leaf Plot,stem-and-leaf plot,Stem-and-Leaf plot,2
+Ansh Jain,849,23,Male,India,CSE,Postgraduate,2/13/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Stock Analysis,line,Index chart/line chart,1
+Eddie Kubit,7,20-25,M,USA,Finance,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Stock gain line chart,Index chart/line chart,Index chart/line chart,1
+Garrison Smith,15204,~20,M,USA,CSE,Undergrade,2/14/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Stock Graph,Index Graph,Index chart/line chart,1
+Satyaki Roy Chowdhury,207,20-25,F,India,ECE,Masters,02/12/2024,Dresse Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Stock Growth,Index Graph,Index chart/line chart,1
+Garrison Smith,15204,~20,F,USA,ESE,Undergrade,2/12/24,Knowlton Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Stock Growth,Index Graph,Index chart/line chart,1
+Chris Stanulet,1,20-25,M,USA,Psycology,Undergrad,2/14/2024,Halloran Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Stock Market Graph,Line chart,Index chart/line chart,1
+Chris Stanulet,1,20-25,F,USA,Bio Chem,Undergrad,2/14/2024,Off Campus Apartment,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Straight chart,Tree,Node-link diagram / tree,4
+Chris Stanulet,1,20-25,F,USA,English,Undergrad,2/14/2024,Off Campus Apartment,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Sun flare,Sunburst,Sunburst Tree,4
+Ansh Jain,849,28,Male,India,CSE,Postgraduate,2/13/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Symbol Map,pie chart / area chart,Graduated Symbol Map,3
+Eddie Kubit,7,20-25,F,USA,Communications,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Technology Stocks,Index chart/line chart,Index chart/line chart,1
+Cole Parker,1331,19,Female,USA,Psychology,Freshman,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Time Graph,,Small Multiples,1
+Ansh Jain,849,20,Male,China,CSE,Undergraduate,2/13/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Tree,Tree,Node-link diagram / tree,4
+Ansh Jain,849,23,Male,China,ECE,Postgraduate,2/13/2024,Baker System,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Tree,Radial node-link diagram / tree,Node-link diagram / tree,4
+Jinsu Yoo,503,25~30,M,Korea,CSE,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,tree,category,Node-link diagram / tree,4
+Jinsu Yoo,503,30~35,M,Taiwan,CSE,PhD student,2/13/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,tree,tree,Node-link diagram / tree,4
+Cole Parker,1331,19,Male,USA,Geography,Junior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,Tree,,Indented Tree,4
+Cole Parker,1331,21,Female,USA,Psychology,Senior,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Tree,,Node-link diagram / tree,4
+Eddie Kubit,7,20-25,M,USA,Finance,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Tree diagram,Radial node-link diagram / tree,Node-link diagram / tree,4
+Chris Stanulet,1,20-25,M,USA,CSE,Undergrad,2/14/2024,Enarson,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Tree diagram,Tree,Node-link diagram / tree,4
+Chris Stanulet,1,20-25,M,USA,CSE,Undergrad,2/14/2024,Enarson,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Tree diagram,Radial node-link diagram / tree,Radial Cluster Diagram,4
+Cheng Yu,3500,20~25,Male,Taiwan,ECE,MS student,2/12/2024,off campus,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,trend plot,,Q-Q plot,2
+Eddie Kubit,7,20-25,M,USA,CSE,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Unemployment chart,stacked graph,Stacked Graph,1
+Ansh Jain,849,21,Female,India,CSE,Undergraduate,2/13/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Unemployment rate,stacked graph,Stacked Graph,1
+Garrison Smith,15204,~20,M,USA,CSE,Undergrade,2/14/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Unemployment rate,Small Multiples,Small Multiples,1
+Eddie Kubit,7,20-25,F,USA,Neuroscience,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Unemployment Rate U.S. Workers Industry,small multiples,Small Multiples,1
+Eddie Kubit,7,20-25,F,USA,Public Affairs,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,Unemployment rates time,horizon graph,Horizon Graph,1
+Eddie Kubit,7,20-25,M,USA,CSE,Undergraduate,02/14/24,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Uniform distribution comparison plot,Q-Q plot,Q-Q plot,2
+Eddie Kubit,7,20-25,F,USA,EHE,Undergraduate,2/14/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,US Unemployment Rate,horizon graph,Horizon Graph,1
+Satyaki Roy Chowdhury,207,20-25,F,India,ECE,PhD,02/13/2024,Dresse Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,USA Pie Chart,Pie Chart,Graduated Symbol Map,3
+Cole Parker,1331,19,Female,USA,Psychology,Freshman,2/14/2024,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Venn Diagram,,Nested Circles Tree,4
+Marcelo Morales,morales.374,20-30,Female,Puerto Rico,Geography,Master,2/14/2024,Online Survey,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,Package tree,indent tree,Indented Tree,4
+Marcelo Morales,morales.374,20-30,Female,Puerto Rico,Geography,Master,2/14/2024,Online Survey,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Percentage graph,Q-Q plot,Q-Q plot,2
+Marcelo Morales,morales.374,20-30,Female,Puerto Rico,Geography,Master,2/14/2024,Online Survey,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,Nodes graph,force-directed layout,force-directed layout,5
+Marcelo Morales,morales.374,20-30,Female,Jordan,CSE,PhD,2/14/2024,Baker Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Tree maps,treemap,Treemap Layout,4
+Marcelo Morales,morales.374,20-30,Female,Jordan,CSE,PhD,2/14/2024,Baker Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,icicle graph,icicle tree,Icicle Tree,4
+Marcelo Morales,morales.374,20-30,Female,Jordan,CSE,PhD,2/14/2024,Baker Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Parallel Coordinates,Q-Q plot,Q-Q plot,2
+Marcelo Morales,morales.374,20-30,Female,Jordan,CSE,PhD,2/14/2024,Baker Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Linear graph,parallel Coordinates,parallel Coordinates,2
+Marcelo Morales,morales.374,20-30,Male,CHINA,CSE,PhD,2/14/2024,Baker Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Q-Q Plot,Q-Q plot,Q-Q plot,2
+Marcelo Morales,morales.374,20-30,Male,CHINA,CSE,PhD,2/14/2024,Baker Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,Horizon Graph,horizon graph,Horizon Graph,1
+Marcelo Morales,morales.374,20-30,Female,China,CSE,PhD,2/14/2024,Online Survey,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,Icicle plot,icicle tree,Icicle Tree,4
+Marcelo Morales,morales.374,20-30,Female,China,CSE,PhD,2/14/2024,Online Survey,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line chart,Index chart/line chart,Index chart/line chart,1
+Marcelo Morales,morales.374,20-30,Male,China,CSE,PhD,2/14/2024,Online Survey,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Heat map,pie chart / area chart,Graduated Symbol Map,3
+Marcelo Morales,morales.374,20-30,Male,China,CSE,PhD,2/14/2024,Online Survey,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Module map,nested circle,Nested Circles Tree,4
+Marcelo Morales,morales.374,20-30,Female,Bangladesh,---,PhD,2/14/2024,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Heatmap,choroploth map,Choropleth Map,3
+Marcelo Morales,morales.374,20-30,Female,Bangladesh,---,PhD,2/14/2024,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Hierarchy,Radial node-link diagram / tree,Node-link diagram / tree,4
+Marcelo Morales,morales.374,20-30,Male,Bangladesh,CSE,PhD,2/14/2024,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Total counts unemployed person industry,small multiples,Small Multiples,1
+Marcelo Morales,morales.374,20-30,Male,Bangladesh,CSE,PhD,2/14/2024,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Flare package tree,polar coordinates node-link / tree,Radial Cluster Diagram,4
+Marcelo Morales,morales.374,20-30,Male,United States,CSE,Master,2/14/2024,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Tree graph,treemap,Treemap Layout,4
+Marcelo Morales,morales.374,20-30,Male,United States,CSE,Master,2/14/2024,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Line graph,stacked graph,Stacked Graph,1
+Marcelo Morales,morales.374,20-30,Male,Turkey,CSE,PhD,2/14/2024,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Tree,polar coordinates node-link / tree,Radial Cluster Diagram,4
+Marcelo Morales,morales.374,20-30,Male,Turkey,CSE,PhD,2/14/2024,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,Scaled graph,force-directed layout,force-directed layout,5
+Marcelo Morales,morales.374,20-30,Male,Vietnam,CSE,PhD,2/14/2024,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,compound line,stacked graph,Stacked Graph,1
+Marcelo Morales,morales.374,20-30,Male,Vietnam,CSE,PhD,2/14/2024,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,density graph,horizon graph,Horizon Graph,1
+Marcelo Morales,morales.374,20-30,Male,Vietnam,CSE,PhD,2/14/2024,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,parallel coordinates plot,parallel Coordinates,parallel Coordinates,2
+Marcelo Morales,morales.374,20-30,Male,Vietnam,CSE,PhD,2/14/2024,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,heat map,icicle tree,Icicle Tree,4
+Anurag Kumar,1109,25-30,Female,India,Human Resource Management,Masters,2/15/24,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Stacked Density Plot,I dont know,Stacked Graph,1
+Anurag Kumar,1109,20-25,Male,India,Physics,PhD,2/15/24,Physics Research Building,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line Plot,,Index chart/line chart,1
+Anurag Kumar,1109,20-25,Female,India,CSE,Masters,2/15/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line Plot,Stock prices,Index chart/line chart,1
+Anurag Kumar,1109,20-25,Male,India,CSE,Masters,2/15/24,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Heatmap,Obesity levels by state,Choropleth Map,3
+Hemanth Kollipara,kollipara.9,20-25,M,India,CS,MS,02/13/2024,University Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,file system diagram,indent tree,Indented Tree,4
+Hemanth Kollipara,kollipara.9,20-25,M,India,CS,MS,02/13/2024,University Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,line plot,Index chart/line chart,Index chart/line chart,1
+Hemanth Kollipara,kollipara.9,20-25,M,India,CS,MS,02/13/2024,University Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,block plot,icicle tree,Icicle Tree,4
+Hemanth Kollipara,kollipara.9,20-25,M,India,CS,MS,02/13/2024,University Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,trend plot,horizon graph,Horizon Graph,1
+Hemanth Kollipara,kollipara.9,20-25,M,India,CS,MS,02/13/2024,Dreese,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,scatter plots,Splom / scatterplot matrix,Splom / scatterplot matrix,2
+Hemanth Kollipara,kollipara.9,20-25,M,India,CS,MS,02/13/2024,Dreese,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,network graph,force-directed layout,force-directed layout,5
+Hemanth Kollipara,kollipara.9,20-25,M,India,CS,MS,02/13/2024,Dreese,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,sphere plot,Dorling Cartogram/area chart,Dorling Cartogram/Area Chart,3
+Hemanth Kollipara,kollipara.9,20-25,M,India,CS,MS,02/13/2024,Dreese,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Point Scatter plot,Q-Q plot,Q-Q plot,2
+Hemanth Kollipara,kollipara.9,25-30,M,Malaysia,ECE,MS,02/14/2024,Dreese,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Geo distribution plot,choroploth map,Choropleth Map,3
+Hemanth Kollipara,kollipara.9,25-30,M,Malaysia,ECE,MS,02/14/2024,Dreese,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,multi line plot,stacked graph,Stacked Graph,1
+Hemanth Kollipara,kollipara.9,25-30,M,Malaysia,ECE,MS,02/14/2024,Dreese,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,circular tree graph,polar coordinates node-link / tree,Radial Cluster Diagram,4
+Hemanth Kollipara,kollipara.9,20-25,F,India,CS,MS,02/14/2024,Dreese,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,circle plot,nested circle,Nested Circles Tree,4
+Hemanth Kollipara,kollipara.9,20-25,F,India,CS,MS,02/14/2024,Dreese,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,connection graph,arc diagram,arc diagram,5
+Hemanth Kollipara,kollipara.9,20-25,F,India,CS,MS,02/14/2024,Dreese,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,matrix plot,matrix view,matrix view,5
+Hemanth Kollipara,kollipara.9,20-25,F,India,CS,MS,02/14/2024,Dreese,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,pie chart,pie chart / area chart,Graduated Symbol Map,3
+Hemanth Kollipara,kollipara.9,25-30,M,India,Biochemistry,PhD,02/15/2024,University Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,map,flow map / mpa,flow map / mpa,3
+Hemanth Kollipara,kollipara.9,25-30,M,India,Biochemistry,PhD,02/15/2024,University Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,concentric figure,sunburst,Sunburst Tree,4
+Hemanth Kollipara,kollipara.9,25-30,M,India,Biochemistry,PhD,02/15/2024,University Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,tree,Radial node-link diagram / tree,Node-link diagram / tree,4
+Hemanth Kollipara,kollipara.9,25-30,M,India,Biochemistry,PhD,02/15/2024,University Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,trends,small multiples,Small Multiples,1
+Hemanth Kollipara,kollipara.9,25-30,M,Bangladesh,Chemical Science,PhD,02/15/2024,University Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,area plot,treemap,Treemap Layout,4
+Hemanth Kollipara,kollipara.9,25-30,M,Bangladesh,Chemical Science,PhD,02/15/2024,University Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,stock price graph,Index chart/line chart,Index chart/line chart,1
+Hemanth Kollipara,kollipara.9,25-30,M,Bangladesh,Chemical Science,PhD,02/15/2024,University Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,heatmap,choroploth map,Choropleth Map,3
+Likith Narukurthi,Narukurthi.1,20 - 25,Male,India,CHEM,GRADUATE,02/13/24,UNIVERSITY VILLAGE,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,pie chart,pie chart / area chart,Graduated Symbol Map,3
+Likith Narukurthi,Narukurthi.1,20 - 25,Male,India,CHEM,GRADUATE,02/13/24,UNIVERSITY VILLAGE,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,scatterplot,Splom / scatterplot matrix,Splom / scatterplot matrix,2
+Likith Narukurthi,Narukurthi.1,20 - 25,Male,Bangladesh,CHEM,GRADUATE,02/14/24,UNIVERSITY VILLAGE,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Mapping,parallel Coordinates,parallel Coordinates,2
+Likith Narukurthi,Narukurthi.1,20 - 25,Male,India,FINANCE,GRADUATE,02/14/24,UNIVERSITY VILLAGE,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,frequency chart,stem-and-leaf plot,Stem-and-Leaf plot,2
+Likith Narukurthi,Narukurthi.1,20 - 25,Female,India,CSE,UNDERGRADUATE,02/15/24,UNIVERSITY VILLAGE,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,time series plot,small multiples,Small Multiples,1
+Likith Narukurthi,Narukurthi.1,20 - 25,Male,Bangladesh,ECE,GRADUATE,02/15/24,UNIVERSITY VILLAGE,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,scatterplot,Q-Q plot,Q-Q plot,2
+Imran E Kibria,kibria.5,20~25,M,Pakistan,BME,PhD,02/14/24,Biomedical Research Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Variation stock with time,,Index chart/line chart,1
+Imran E Kibria,kibria.5,20~25,M,Pakistan,BME,PhD,02/14/24,Biomedical Research Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Variation employment rate with profession,,Small Multiples,1
+Imran E Kibria,kibria.5,20~25,M,Pakistan,BME,PhD,02/14/24,Biomedical Research Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,Deviation from average unemployment rate,,Horizon Graph,1
+Imran E Kibria,kibria.5,25~30,F,Pakistan,Business,Masters,2/14/24,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Participation Ranking,,Stem-and-Leaf plot,2
+Imran E Kibria,kibria.5,25~30,F,Pakistan,Business,Masters,2/14/24,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Group completion trend,,Q-Q plot,2
+Imran E Kibria,kibria.5,25~30,F,Pakistan,Business,Masters,2/14/24,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Car Data Country,,Splom / scatterplot matrix,2
+Imran E Kibria,kibria.5,25~30,F,Pakistan,Business,Masters,2/14/24,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Data Car Characteristics,,parallel Coordinates,2
+Imran E Kibria,kibria.5,20~25,M,Pakistan,BME,PhD,2/14/24,Biomedical Research Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,Progression army time,,flow map / mpa,3
+Imran E Kibria,kibria.5,20~25,M,Pakistan,BME,PhD,2/14/24,Biomedical Research Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Heat map obesity US,,Choropleth Map,3
+Imran E Kibria,kibria.5,20~25,M,Pakistan,BME,PhD,2/14/24,Biomedical Research Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Obesity chart state,,Graduated Symbol Map,3
+Imran E Kibria,kibria.5,20~25,M,Pakistan,BME,PhD,2/14/24,Biomedical Research Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Absolute Percentage Obesity,,Dorling Cartogram/Area Chart,3
+Imran E Kibria,kibria.5,20~25,M,Bangladesh,CSE,PhD,2/14/24,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Sunburst Visualization Software Package Structure,,Sunburst Tree,4
+Imran E Kibria,kibria.5,20~25,M,Bangladesh,CSE,PhD,2/14/24,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Treemap Visualization Software Package Structure,,Treemap Layout,4
+Imran E Kibria,kibria.5,20~25,M,Bangladesh,CSE,PhD,2/14/24,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Circle Packing Visualization Software Package Structure,,Nested Circles Tree,4
+Imran E Kibria,kibria.5,20~25,M,Bangladesh,CSE,PhD,2/14/24,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,Force-Directed Graph Visualization Character Interactions,,force-directed layout,5
+Imran E Kibria,kibria.5,25~30,F,US,CSE,PhD,2/14/24,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,Word Frequency co-occurance,,arc diagram,5
+Imran E Kibria,kibria.5,25~30,F,US,CSE,PhD,2/14/24,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,Word Interaction Matrix,,matrix view,5
+Imran E Kibria,kibria.5,25~30,F,US,CSE,PhD,2/14/24,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line chart depicting stock trends,,Index chart/line chart,1
+Imran E Kibria,kibria.5,25~30,F,US,CSE,PhD,2/14/24,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Unemployment across domains decade,,Stacked Graph,1
+Imran E Kibria,kibria.5,25~30,M,India,ECE,Masters,2/15/24,Housing Community Center,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Sectorwise unemployment trends,,Small Multiples,1
+Imran E Kibria,kibria.5,25~30,M,India,ECE,Masters,2/15/24,Housing Community Center,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,National Unemployment annual average,,Horizon Graph,1
+Imran E Kibria,kibria.5,25~30,M,India,ECE,Masters,2/15/24,Housing Community Center,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Participation rates,,Q-Q plot,2
+Canaan Porter,1131,20-25,M,USA,CSE,3rd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line Graph,Percent change in stock price,Index chart/line chart,1
+Canaan Porter,1131,20-25,M,USA,CSE,3rd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Pie Chart,Heirarchy / Tree,Sunburst Tree,4
+Canaan Porter,1131,20-25,M,USA,ISE,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,bar-heat map,Frequency of appearance of numbers,Stem-and-Leaf plot,2
+Canaan Porter,1131,20-25,M,USA,ISE,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,Marching chart,Path of military campaign,flow map / mpa,3
+Canaan Porter,1131,20-25,M,USA,ISE,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Shaded Intersecting Line Chart,Various elements of the econ,Stacked Graph,1
+Canaan Porter,1131,20-25,M,USA,ISE,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,Heat connection map,Interactions of writers / relationships,arc diagram,5
+Canaan Porter,1131,20-25,M,USA,ECE,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,Breakdown,How much each is informed by each of its parts,Icicle Tree,4
+Canaan Porter,1131,20-25,M,USA,ECE,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Area informed pie chart,Distributions based on geographic area,Graduated Symbol Map,3
+Canaan Porter,1131,20-25,M,USA,ECE,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Set area graphs,Employment,Small Multiples,1
+Canaan Porter,1131,20-25,M,USA,CSE,4th Year Undergrad,2/14/23,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Relational Model,Showing the different branches of flare,Node-link diagram / tree,4
+Canaan Porter,1131,20-25,M,USA,CSE,4th Year Undergrad,2/14/23,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Loom / Weave,How number of cylinders relate to attributes of a car,parallel Coordinates,2
+Canaan Porter,1131,20-25,M,USA,CSE,4th Year Undergrad,2/14/23,Dreese Labs,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatterplot,Each plot a comparison of 2 of the vars,Splom / scatterplot matrix,2
+Canaan Porter,1131,20-25,M,USA,ECE,3rd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,Stocks,"Negative Red, Positive Blue",Horizon Graph,1
+Canaan Porter,1131,20-25,M,USA,ECE,3rd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Importance,More important things are bigger,Treemap Layout,4
+Canaan Porter,1131,20-25,M,USA,ECE,3rd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Venn Diagram,"Orange ones are data, larger circles are category",Nested Circles Tree,4
+Canaan Porter,1131,20-25,M,USA,ECE,3rd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Weight / Obesity,"Red is most dense, lighter / green is less",Choropleth Map,3
+Canaan Porter,1131,20-25,M,USA,BME,3rd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,Model Tree,Different storage for variables in a computer,Indented Tree,4
+Canaan Porter,1131,20-25,M,USA,BME,3rd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,Logic Puzzle,"Family tree, what people share similar traits",matrix view,5
+Canaan Porter,1131,20-25,M,USA,BME,3rd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Cat and Whisker Plot,Represent data points from 0.1 to 10.0,Stem-and-Leaf plot,2
+Canaan Porter,1131,20-25,M,USA,BME,3rd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatterplot,Different engines for cars based on country of production,Splom / scatterplot matrix,2
+Canaan Porter,1131,20-25,M,USA,CIS,4th Year Undergrad,2/14/23,Off-campus,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line Graph,How is one variable effected by the other over time,Index chart/line chart,1
+Canaan Porter,1131,20-25,M,USA,CIS,4th Year Undergrad,2/14/23,Off-campus,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Tree,"Origin, branches off into different branches and leaves",Radial Cluster Diagram,4
+Canaan Porter,1131,20-25,M,USA,CIS,4th Year Undergrad,2/14/23,Off-campus,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Area Graph,Larger circle more data points,Dorling Cartogram/Area Chart,3
+Canaan Porter,1131,20-25,M,USA,CIS,4th Year Undergrad,2/14/23,Off-campus,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Circle Tree,"Origin, branches off into different branches and leaves",Sunburst Tree,4
+Canaan Porter,1131,20-25,F,USA,CSE,2nd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Dot Plot,Corresponding amount per number,Stem-and-Leaf plot,2
+Canaan Porter,1131,20-25,F,USA,CSE,2nd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,Map distance,Temperature? Lat? Long?,flow map / mpa,3
+Canaan Porter,1131,20-25,F,USA,CSE,2nd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Scatterplot,Variables increase to the right and up,Q-Q plot,2
+Canaan Porter,1131,20-25,F,USA,CSE,2nd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Census / Demographic Data,Weight dist per weight,Graduated Symbol Map,3
+Canaan Porter,1131,20-25,F,USA,CSE,2nd Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Bar Graph,"X axis time, y-axis relevance of industry",Small Multiples,1
+Canaan Porter,1131,20-25,M,USA,CSE / DA,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Logic Tree,Represent relationship between classes in a software program,Node-link diagram / tree,4
+Canaan Porter,1131,20-25,M,USA,CSE / DA,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Tree Graph,Maps relationships of certain components of a car to others,parallel Coordinates,2
+Canaan Porter,1131,20-25,M,USA,CSE / DA,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Multi-colinearity matrix,Plot relationships two variables at a time based on x or y axis,Splom / scatterplot matrix,2
+Canaan Porter,1131,20-25,M,USA,CSE / DA,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,Lineage Plot,Maps descendants of certain people,arc diagram,5
+Canaan Porter,1131,20-25,F,USA,BME,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,Line Graph and Histograph had a baby,"Blue means growth, red is in the negative",Horizon Graph,1
+Canaan Porter,1131,20-25,F,USA,BME,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Box Graph,"Each box represents a percentage, larger box is higher percentage",Treemap Layout,4
+Canaan Porter,1131,20-25,F,USA,BME,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,tree graph,Each circle is a part/a component of the larger circle,Nested Circles Tree,4
+Canaan Porter,1131,20-25,F,USA,BME,4th Year Undergrad,2/14/23,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Map,Color is showning the percentage of some data,Choropleth Map,3
+Eric Paquin,21,20-25,M,USA,Business,Junior,2/10/2024,Dining Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Multiple line chart,It shows the change in stock prices over time,Index chart/line chart,1
+Eric Paquin,21,20-25,F,USA,ENR,Senior,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,Dining Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,stacked line chart,Shows the proportion of categories across time,Stacked Graph,1
+Eric Paquin,21,18-20,M,USA,BIO,Freshman,2/10/2024,Dining Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Map,Obesity levels by state,Choropleth Map,3
+Eric Paquin,21,18-20,M,USA,Aerospace Engineering,Freshman,2/10/2024,Dining Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Tree Map,proportions of things in different categories,Treemap Layout,4
+Eric Paquin,21,20-25,M,USA,CSE,Senior,2/10/2024,Practice (RPAC),https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line charts,change in categories over time,Index chart/line chart,1
+Eric Paquin,21,18-20,F,USA,Exercise Science,Sophomore,2/10/2024,Practice (RPAC),https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Stem-and-leaf plot,A bunch of numbers,Stem-and-Leaf plot,2
+Aparajit Talukdar,dot15,25-30,M,Mexico,Electrical Engineering,MS,2/13/24,South Oval,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Technology stock chart,Index Chart,Index chart/line chart,1
+Aparajit Talukdar,dot15,25-30,M,Mexico,Electrical Engineering,MS,2/13/24,South Oval,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Mechanical Turk Participation Rates,Q-Q Plot,Q-Q plot,2
+Aparajit Talukdar,dot15,25-30,M,Mexico,Electrical Engineering,MS,2/13/24,South Oval,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Obesity map USA,Choropleth Map,Choropleth Map,3
+Aparajit Talukdar,dot15,20-25,M,India,Business,Undergrad,2/13/24,The Oval,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Obesity USA Dorling Carogram,Dorling Cartogram/Area Chart,Dorling Cartogram/Area Chart,3
+Aparajit Talukdar,dot15,20-25,M,India,Business,Undergrad,2/13/24,The Oval,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,Interaction Les Miserables characters,Arc Diagram,arc diagram,5
+Aparajit Talukdar,dot15,20-25,M,India,Computer Science,PhD,2/14/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Index chart stocks,Index Chart,Index chart/line chart,1
+Aparajit Talukdar,dot15,20-25,M,India,Computer Science,PhD,2/14/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Graduated Symbol Map obesity,Pie Chart,Graduated Symbol Map,3
+Aparajit Talukdar,dot15,20-25,F,USA,Biomedical,Undergrad,2/13/24,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Plot automobile data,Scatter Plot Matrix,Splom / scatterplot matrix,2
+Aparajit Talukdar,dot15,20-25,F,USA,Biomedical,Undergrad,2/13/14,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Unemployment graph,Stacked Graph,Stacked Graph,1
+Aparajit Talukdar,dot15,20-25,F,USA,Biomedical,Undergrad,2/13/24,Ohio Union,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,Interaction graph,Force directed layout,force-directed layout,5
+Aparajit Talukdar,dot15,20-25,M,USA,Business,Masters,2/13/24,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Unemployment rate US workers industry,Small Multiples,Small Multiples,1
+Aparajit Talukdar,dot15,20-25,M,USA,Business,Masters,2/13/24,Thompson Library,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Stem and Leaf Plot Mechanical Turk Participation rates,Stem and Leaf Plot,Stem-and-Leaf plot,2
+Aparajit Talukdar,dot15,25-30,M,India,Mechanical Engineering,PhD,2/13/24,Scott Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Parallel Coordinates Automobile Data,Parallel Coordinates,parallel Coordinates,2
+Aparajit Talukdar,dot15,25-30,M,India,Mechanical Engineering,PhD,2/13/24,Scott lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,Horizon Graph unemployment,Horizon Graph,Horizon Graph,1
+Hamoud Alhazmi,8,22,M,USA,Marketing,Undergraduate,2/14/2024,Fisher Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Hypertree,The Flare Package tree,Nested Circles Tree,4
+Hamoud Alhazmi,8,22,M,USA,Marketing,Undergraduate,2/14/2024,Fisher Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Stacked Graph,Unemployment,Stacked Graph,1
+Hamoud Alhazmi,8,22,M,USA,Marketing,Undergraduate,2/14/2024,Fisher Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Parallel plot diagram,Automobile Data,parallel Coordinates,2
+Hamoud Alhazmi,8,22,M,USA,Marketing,Undergraduate,2/14/2024,Fisher Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,tree map,The Flare Package tree,Node-link diagram / tree,4
+Hamoud Alhazmi,8,27,M,Saudi Arabia,MIS,Graduate,2/14/2024,Fisher Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line Chart,Stock Increase,Index chart/line chart,1
+Hamoud Alhazmi,8,27,M,Saudi Arabia,MIS,Graduate,2/14/2024,Fisher Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Stem-and-Leaf,Mechanical Turk Participation Rates,Stem-and-Leaf plot,2
+Hamoud Alhazmi,8,27,M,Saudi Arabia,MIS,Graduate,2/14/2024,Fisher Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatter Plot,Automobile Data,Splom / scatterplot matrix,2
+Hamoud Alhazmi,8,20,F,USA,Nursing,Undergraduate,2/14/2024,Barrett House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Turker task group completion ,Mechanical Turk Participation Rates,Q-Q plot,2
+Hamoud Alhazmi,8,20,F,USA,Nursing,Undergraduate,2/14/2024,Barrett House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Obesity United States ,Obesity in the United States (1995 to 2008),Choropleth Map,3
+Hamoud Alhazmi,8,20,F,USA,Nursing,Undergraduate,2/14/2024,Barrett House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Radial trees ,The Flare Package tree,Radial Cluster Diagram,4
+Hamoud Alhazmi,8,26,M,India,"Mechanical 
+Engineering",Graduate,2/14/2024,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line graph,Stock Increase,Index chart/line chart,1
+Hamoud Alhazmi,8,26,M,India,"Mechanical 
+Engineering",Graduate,2/14/2024,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Bar graph,Unemployment,Small Multiples,1
+Hamoud Alhazmi,8,26,M,India,"Mechanical 
+Engineering",Graduate,2/14/2024,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Stem-and-Leaf,Mechanical Turk Participation Rates,Stem-and-Leaf plot,2
+Hamoud Alhazmi,8,26,M,India,"Mechanical 
+Engineering",Graduate,2/14/2024,Hitchcock Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatter Plot,Automobile Data,Splom / scatterplot matrix,2
+Hamoud Alhazmi,8,27,F,USA,Arts,Graduate,2/14/2024,University Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Neuro graph,Automobile Data,parallel Coordinates,2
+Hamoud Alhazmi,8,27,F,USA,Arts,Graduate,2/14/2024,University Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Obesity US,Obesity in the United States (1995 to 2008),Choropleth Map,3
+Hamoud Alhazmi,8,27,F,USA,Arts,Graduate,2/14/2024,University Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Circles,Obesity in the United States (1995 to 2008),Dorling Cartogram/Area Chart,3
+Hamoud Alhazmi,8,27,F,USA,Arts,Graduate,2/14/2024,University Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Tree,The Flare Package tree,Radial Cluster Diagram,4
+Hamoud Alhazmi,8,21,M,Saudi Arabia,Aviation,Undergraduate,2/15/2024,Bolz Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Circle Map,Obesity in the United States (1995 to 2008),Graduated Symbol Map,3
+Hamoud Alhazmi,8,21,M,Saudi Arabia,Aviation,Undergraduate,2/15/2024,Bolz Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Node Tree,The Flare Package tree,Node-link diagram / tree,4
+Hamoud Alhazmi,8,21,M,Saudi Arabia,Aviation,Undergraduate,2/15/2024,Bolz Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,Tree,The Flare Package tree,Indented Tree,4
+Hamoud Alhazmi,8,23,F,China,Accounting,Undergraduate,2/15/2024,Hayes Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,Tree Levels,The Flare Package tree,Icicle Tree,4
+Hamoud Alhazmi,8,23,F,China,Accounting,Undergraduate,2/15/2024,Hayes Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Square Tree,The Flare Package tree,Treemap Layout,4
+Hamoud Alhazmi,8,23,F,China,Accounting,Undergraduate,2/15/2024,Hayes Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,Node Tree,Les Misérables character interaction,force-directed layout,5
+Hamoud Alhazmi,8,23,F,China,Accounting,Undergraduate,2/15/2024,Hayes Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line Chart,Stock Increase,Index chart/line chart,1
+Hamoud Alhazmi,8,28,M,USA,Genetics,Graduate,2/15/2024,Traditions at Kennedy,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Cricles,The Flare Package tree,Sunburst Tree,4
+Hamoud Alhazmi,8,28,M,USA,Genetics,Graduate,2/15/2024,Traditions at Kennedy,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Cricles,The Flare Package tree,Nested Circles Tree,4
+Hamoud Alhazmi,8,28,M,USA,Genetics,Graduate,2/15/2024,Traditions at Kennedy,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Stock Plot,Unemployment,Stacked Graph,1
+Hamoud Alhazmi,8,21,F,China,Public Health,Undergraduate,2/15/2024,Traditions at Kennedy,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Linear Algebra,Mechanical Turk Participation Rates,Q-Q plot,2
+Hamoud Alhazmi,8,21,F,China,Public Health,Undergraduate,2/15/2024,Traditions at Kennedy,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Obesity US,Obesity in the United States (1995 to 2008),Choropleth Map,3
+Hamoud Alhazmi,8,29,F,India,CSE,Graduate,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Stem-and-Leaf graph,Mechanical Turk Participation Rates,Stem-and-Leaf plot,2
+Hamoud Alhazmi,8,29,F,India,CSE,Graduate,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Parallel Coordinates,Automobile Data,parallel Coordinates,2
+Hamoud Alhazmi,8,29,F,India,CSE,Graduate,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Circle Graph,Obesity in the United States (1995 to 2008),Dorling Cartogram/Area Chart,3
+Hamoud Alhazmi,8,29,F,India,CSE,Graduate,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,Triangle Tree,The Flare Package tree,Icicle Tree,4
+Jiachen Jiang,2880,22,F,China,Music,Graduate,2/12/24,Timashev Family Music Building,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Stock Trend chart,Stock increase,Index chart/line chart,1
+Jiachen Jiang,2880,24,M ,USA,Math,Graduate,2/2024,Mathematics Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,tree plot,Mechanical Turk Participation Rates,Stem-and-Leaf plot,2
+Jiachen Jiang,2880,24,M ,USA,Math,Graduate,2/2024,Mathematics Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,scatter plot,Automobile Data,Splom / scatterplot matrix,2
+Jiachen Jiang,2880,24,M ,USA,Math,Graduate,2/2024,Mathematics Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,parallel plot,Automobile Data,parallel Coordinates,2
+Jiachen Jiang,2880,20,M,USA,CSE,Undergraduate,2/13/24,Lincoln Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Tree,The Flare package tree,Node-link diagram / tree,4
+Jiachen Jiang,2880,20,M,USA,CSE,Undergraduate,2/13/24,Lincoln Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,Json,The Flare package tree,Indented Tree,4
+Jiachen Jiang,2880,25,M,China,CSE,Graduate,2/13/24,Lincoln Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Sector Tree,The Flare package tree,Sunburst Tree,4
+Jiachen Jiang,2880,25,M,China,CSE,Graduate,2/13/24,Lincoln Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Block Tree,The Flare package tree,Treemap Layout,4
+Jiachen Jiang,2880,25,M,China,CSE,Graduate,2/13/24,Lincoln Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Circle Tree,The Flare package tree,Nested Circles Tree,4
+Jiachen Jiang,2880,26,M,China,CSE,Graduate,2/13/24,Lincoln Tower,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,Matrix,Les Misérables character interaction ,matrix view,5
+Jiachen Jiang,2880,26,M,China,CSE,Graduate,02/14/24,Traditions at scott,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line plot,Stock increase,Index chart/line chart,1
+Jiachen Jiang,2880,26,M,China,CSE,Graduate,02/14/24,Traditions at scott,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Stack plot,Unemployment ,Stacked Graph,1
+Jiachen Jiang,2880,27,F,USA,CSE,Graduate,02/15/24,Hopskin Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Q-Q Plot,"Mechanical Turk Participation Rates
+",Q-Q plot,2
+Jiachen Jiang,2880,24,M,China ,CSE,Graduate,02/15/24,Hopskin Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatter Plot Matrix,Automobile Data,Splom / scatterplot matrix,2
+Jiachen Jiang,2880,24,M,China ,CSE,Graduate,2/15/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Choropleth Map,Obesity in the United States (1995 to 2008),Choropleth Map,3
+Jiachen Jiang,2880,24,M,China ,CSE,Graduate,2/15/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Graduated Symbol Map,Obesity in the United States (1995 to 2008),Graduated Symbol Map,3
+Jiachen Jiang,2880,24,M,China ,CSE,Graduate,2/15/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Dorling Cartogram,Obesity in the United States (1995 to 2008),Dorling Cartogram/Area Chart,3
+Jiachen Jiang,2880,24,M,China ,CSE,Graduate,2/15/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Tree chart,The Flare package tree,Node-link diagram / tree,4
+Jiachen Jiang,2880,24,M,China ,CSE,Graduate,2/15/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Radial chart,The Flare package tree,Radial Cluster Diagram,4
+Jiachen Jiang,2880,24,M,China ,CSE,Graduate,2/15/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Treemap,The Flare package tree,Treemap Layout,4
+Jiachen Jiang,2880,25,F,China ,CSE,Graduate,2/15/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Circle ,The Flare package tree,Nested Circles Tree,4
+Jiachen Jiang,2880,25,F,China ,CSE,Graduate,2/15/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,directed graph,Les Misérables character interaction ,force-directed layout,5
+Jiachen Jiang,2880,25,F,China ,CSE,Graduate,2/15/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,Arc graph,Les Misérables character interaction ,arc diagram,5
+Jiachen Jiang,2880,25,F,China ,CSE,Graduate,2/15/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,Matrix graph,Les Misérables character interaction ,matrix view,5
+Cody Collins,1969,20-21,M,USA,DA,"Undergrad, Senior",2/14/24,Townshend Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Index Chart,Line Graph,Index chart/line chart,1
+Cody Collins,1969,21-22,M,USA,DA,"Undergrad, Senior",02/13/24,Baker Systems,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Unemployed US Workers Industry,Stacked Graph,Stacked Graph,1
+Cody Collins,1969,18-19,M,USA,Finance,"Undergrad, 
+Freshman",2/12/24,"At Home 
+(Worthington, Ohio)",https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,"Unemployment Rate US workers 
+industry","Don't know
+(Guessed wave 
+graph)",Small Multiples,1
+Cody Collins,1969,20-21,M,USA,DA,"Undergrad, Senior",2/14/24,Townshend Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,U.S. Unemployment Rate,Horizon Graph,Horizon Graph,1
+Cody Collins,1969,20-21,M,USA,DA,"Undergrad, Junior",2/14/24,Hopkins Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Mechanical Turk Participation rates,Stem and leaf plot,Stem-and-Leaf plot,2
+Cody Collins,1969,20-21,M,USA,DA,"Undergrad, Junior",2/14/24,Hopkins Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Mechanical Turk Participation rates,QQ Plot,Q-Q plot,2
+Cody Collins,1969,18-19,M,USA,Finance,"Undergrad, 
+Freshman",2/12/24,"At Home 
+(Worthington, Ohio)",https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Automobile data,Scatter plots,Splom / scatterplot matrix,2
+Cody Collins,1969,21-22,M,USA,DA,"Undergrad, Junior",2/13/24,Baker Systems,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Automobile data,Parallel Coordinates,parallel Coordinates,2
+Cody Collins,1969,25-26,M,KOREA,DA,"Undergrad, Junior",2/15/24,Baker Systems,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,Marching path data,"Flow Map of 
+Napoleon's March
+ on Moscow",flow map / mpa,3
+Cody Collins,1969,25-26,M,KOREA,DA,"Undergrad, Junior",2/15/24,Baker Systems,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Obesity data,"Chropleth Map of 
+Obesity in the US",Choropleth Map,3
+Cody Collins,1969,20-21,M,USA,DA,"Undergrad, Junior",2/14/24,Hopkins Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Obesity US,"Graduated Symbol 
+map",Graduated Symbol Map,3
+Cody Collins,1969,20-21,F,USA,CSE,"Undergrad, Senior",2/14/24,Townshend Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Obesity Percentage USA State,Cartogram,Dorling Cartogram/Area Chart,3
+Cody Collins,1969,20-21,M,USA,DA,"Undergrad, Junior",2/14/24,Hopkins Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,Flare package,Node-link tree,Node-link diagram / tree,4
+Cody Collins,1969,20-21,F,USA,CSE,"Undergrad, Senior",2/14/24,Townshend Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Variables Workflow Database Backend,Radial Cluster,Radial Cluster Diagram,4
+Cody Collins,1969,25-26,M,KOREA,CSE,"Undergrad, Senior",2/15/24,Baker Systems,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,Flare Visualization Toolkit,Flare Package Tree,Indented Tree,4
+Cody Collins,1969,20-21,F,USA,CSE,"Undergrad, Senior",2/14/24,Townshend Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,Database Workflow Visualization,Icicle Tree,Icicle Tree,4
+Cody Collins,1969,21-22,M,USA,DA,"Undergrad, Senior",2/13/24,Baker Systems,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Selected Technology Stocks,Index Chart,Sunburst Tree,4
+Cody Collins,1969,25-26,M,KOREA,DA,"Undergrad, Senior",2/15/24,Baker Systems,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Flare Package Tree,Flare Package Tree,Treemap Layout,4
+Cody Collins,1969,21-22,M,USA,DA,"Undergrad, Senior",02/13/24,Baker Systems,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Flare tree,Bubble Chart,Nested Circles Tree,4
+Cody Collins,1969,20-21,F,USA,CSE,"Undergrad, Senior",02/14/24,Townshend Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,Cluster Interactions,Le Miserables Force,force-directed layout,5
+Cody Collins,1969,18-19,M,USA,Finance,"Undergrad, 
+Freshman",2/12/24,"At Home 
+(Worthington, Ohio)",https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,"Character interactions 
+Les Miserables",I Don't know,arc diagram,5
+Cody Collins,1969,18-19,M,USA,Finance,"Undergrad, 
+Freshman",2/12/24,"At Home 
+(Worthington, Ohio)",https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,"Character interactions 
+Les Miserables",I don't know,matrix view,5
+Cody Collins,1969,20-21,M,USA,DA,"Unergrad, Senior",02/12/24,Pomerene,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Stock Gains/Losses,Multiple Line Chart,Index chart/line chart,1
+Cody Collins,1969,20-21,M,USA,DA,"Undergrad, Senior",2/14/24,Townshend Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Unemployed U.S. Workers,Stacked Graph,Stacked Graph,1
+Cody Collins,1969,20-21,M,USA,DA,"Undergrad, Senior",2/14/24,Townshend Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Unemployment Rate,Area Graph,Small Multiples,1
+Cody Collins,1969,21-22,M,USA,Data Analytics,"Undergrad, Senior",02/15/24,Cockins Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,"Horizon Graphs U.S. Unemployment 
+Rate",Horizon Graphs,Horizon Graph,1
+Cody Collins,1969,20-21,M,USA,DA,"undergrad, senior",02/12/24,Pomerene,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Participation rate distribution,Stem and leaf plot,Stem-and-Leaf plot,2
+Cody Collins,1969,21-22,M,USA,Data Analytics,"Undergrad, Senior",02/15/24,Pomerene Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,"Q-Q Plot Mechanical Turk Participation
+Rates",Q-Q Plot,Q-Q plot,2
+Cody Collins,1969,21-22,M,USA,Data Analytics,"Undergrad, Senior",02/15/24,Baker Systems,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatterplot Matrix Automobile Data,"Showcases a presence or lack linear correlation between the vairables of horsepower, weight, acceleration, displacement by various countries.",Splom / scatterplot matrix,2
+Cody Collins,1969,20-21,F,USA,Data Analytics,"Undergrad, Senior",02/15/24,Pomerene Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Parallel Coordinates Automobile Data,Parallel Coordinates,parallel Coordinates,2
+Cody Collins,1969,21-22,M,USA,Data Analytics,"Undergrad, Senior",02/15/24,Pomerene Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,Flow map Napoleon's march Moscow,Flow Map,flow map / mpa,3
+Cody Collins,1969,20-21,M,USA,DA,"undergrad, senior",02/12/24,Pomerene Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Color coded maps obesity rates state time,Heatmap with slider for time,Choropleth Map,3
+Cody Collins,1969,21-22,M,USA,Data Analytics,"Undergrad, Senior",02/15/24,Baker Systems,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Pie charts obesity rates state,"Shows the proportion of people who are normal, overweight, and obese in each state ",Graduated Symbol Map,3
+Cody Collins,1969,21-22,M,USA,Data Analytics,"Undergrad, Senior",02/15/24,Cockins Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,"Dorling Cartogram Obesity United
+States",Dorling Cartogram,Dorling Cartogram/Area Chart,3
+Cody Collins,1969,21-22,M,USA,Data Analytics,"Undergrad, Senior",02/15/24,Baker Systems,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,"Flare package tree horizontal
+layers",Tree with nodes,Node-link diagram / tree,4
+Cody Collins,1969,20-21,F,USA,Data Analytics,"Undergrad, Senior",02/15/24,Pomerene Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Flare Package Radial Layers,Node Tree,Radial Cluster Diagram,4
+Cody Collins,1969,20-21,M,USA,DA,"undergrad, senior",02/12/24,Pomerene Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,Components flare package,Expanded view of nested tree,Indented Tree,4
+Cody Collins,1969,21-22,M,USA,Data Analytics,"Undergrad, Senior",02/15/24,Pomerene Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4D.png,,Flare package horizontal layers,Don't know,Icicle Tree,4
+Cody Collins,1969,21-22,M,USA,Data Analytics,"Undergrad, Senior",02/15/24,Baker Systems,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Pie breakdown flare.vis.data,"Proportional Pie
+Chart",Sunburst Tree,4
+Cody Collins,1969,21-22,M,USA,Data Analytics,"Undergrad, Senior",02/15/24,Cockins Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,Flare package sub-divided rectangles,Don't know,Treemap Layout,4
+Cody Collins,1969,20-21,F,USA,Data Analytics,"Undergrad, Senior",02/15/24,Pomerene Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,"Flare package 
+Recursively packed circles",Recursive Circles,Nested Circles Tree,4
+Cody Collins,1969,21-22,M,USA,Data Analytics,"Undergrad, Senior",02/15/24,Pomerene Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5A.png,,"Force directed graph character 
+interaction Les Miserables","Force Dirtected 
+Graph",force-directed layout,5
+Cody Collins,1969,21-22,M,USA,Data Analytics,"Undergrad, Senior",02/15/24,Cockins Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,"Appearances characters Les 
+Miserables",Don't know,arc diagram,5
+Cody Collins,1969,20-21,F,USA,Data Analytics,"Undergrad, Senior",02/15/24,Pomerene Hall,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,Character Interactions in Les Miserables,Interaction Matrix,matrix view,5
+Boyuan Zheng,2372,20-25,F,China ,CSE,Graduate,02/12/24,Off-campus,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Line Chart,Stock Price Plot ,Index chart/line chart,1
+Boyuan Zheng,2372,20-25,F,China ,Biology,Graduate,02/12/24,Off-campus,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Stacked Graph,Unemployed US workers Stacked Graph,Stacked Graph,1
+Boyuan Zheng,2372,20-25,M,China ,Physics,Graduate,02/12/24,Off-campus,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Hisgrams,Multiple hisgram of Unemployment Ratio,Small Multiples,1
+Boyuan Zheng,2372,20-25,M,China ,Finance,Graduate,02/12/24,Off-campus,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,horizon graph,US unemployment rate horizon graphs,Horizon Graph,1
+Boyuan Zheng,2372,20-25,F,China ,CSE,Graduate,02/12/24,Off-campus,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Table,mTurk participation rates,Stem-and-Leaf plot,2
+Boyuan Zheng,2372,20-25,M,China ,CSE,Graduate,02/12/24,Off-campus,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Line Chart,mTurk Participation Ratio ,Q-Q plot,2
+Boyuan Zheng,2372,20-25,F,China ,CSE,Graduate,2/13/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatterplots,Automobile parameter scatter plots,Splom / scatterplot matrix,2
+Boyuan Zheng,2372,20-25,M,USA,CSE,Graduate,2/13/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,Map,Map of river on Moscow,flow map / mpa,3
+Boyuan Zheng,2372,20-25,F,China ,CSE,Graduate,2/13/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Map,Map of Obesity in US by states,Choropleth Map,3
+Boyuan Zheng,2372,20-25,M,India,CSE,Graduate,2/13/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,Pie Chart on Map,Map of obesity in US states with detailed categorization,Graduated Symbol Map,3
+Boyuan Zheng,2372,20-25,M,China ,CSE,Graduate,2/13/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Scatter Plot,Obesity in US states shown in dot plot,Dorling Cartogram/Area Chart,3
+Boyuan Zheng,2372,20-25,M,Mexico,CSE,Graduate,2/13/24,Dreese Laboratories,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,B Tree ,I don't know,Node-link diagram / tree,4
+Kai Zhang ,13253,25-30,M,China,CSE,PhD Student,2/14/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,industry-wise employment trends,small multiples,Small Multiples,1
+Kai Zhang ,13253,25-30,M,China,CSE,PhD Student,2/14/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,mechanical turk task group completion quantile chart,quantile chart,Q-Q plot,2
+Kai Zhang ,13253,25-30,M,China,CSE,PhD Student,2/14/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,index chart of selected tecgnology stocks,index chart,Index chart/line chart,1
+Kai Zhang ,13253,20-25,F,China,CSE,Master Student,2/14/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,industry-based stacked graph unemployed US workers,stacked graph,Stacked Graph,1
+Kai Zhang ,13253,20-25,F,China,CSE,Master Student,2/14/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,Napoleon's invasion route map,route map,flow map / mpa,3
+Kai Zhang ,13253,20-25,F,China,CSE,Master Student,2/14/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Obesity Heatmap US,Heatmap ,Choropleth Map,3
+Kai Zhang ,13253,25-30,M,China,CSE,PhD Student,2/14/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,unemployment rate,idk,Horizon Graph,1
+Kai Zhang ,13253,25-30,M,China,CSE,PhD Student,2/14/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,stocks trend,index graph,Index chart/line chart,1
+Kai Zhang ,13253,25-30,M,China,CSE,PhD Student,2/14/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4C.png,,package source map,layer tree ,Indented Tree,4
+Kai Zhang ,13253,25-30,M,China,CSE,PhD Student,2/14/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,turkers' task completion QQ plot,QQ plot,Q-Q plot,2
+Kai Zhang ,13253,20-25,M,China,CIS,Undergraduate,2/15/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,character relationship,matrix,matrix view,5
+Kai Zhang ,13253,20-25,M,China,CIS,Undergraduate,2/15/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,unemployment rate,idk,Horizon Graph,1
+Kai Zhang ,13253,20-25,M,China,CIS,Undergraduate,2/15/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,US Obesity Trends Choropleth Map,Choropleth Map,Choropleth Map,3
+Kai Zhang ,13253,20-25,M,China,CIS,Undergraduate,2/15/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,U.S. obesity area chart,area chart,Dorling Cartogram/Area Chart,3
+Kai Zhang ,13253,25-30,M,China,CSE,PhD Student,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,turk participation rates,idk,Stem-and-Leaf plot,2
+Kai Zhang ,13253,25-30,M,China,CSE,PhD Student,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,automobile data,scatterplot,Splom / scatterplot matrix,2
+Kai Zhang ,13253,25-30,M,China,CSE,PhD Student,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,package relationship,hierarchies,Nested Circles Tree,4
+Kai Zhang ,13253,20-25,F,China,CSE,Master Student,2/15/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,tech stock trends,line chart,Index chart/line chart,1
+Kai Zhang ,13253,20-25,F,China,CSE,Master Student,2/15/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,obesity density chart,area chart,Dorling Cartogram/Area Chart,3
+Kai Zhang ,13253,20-25,F,China,CSE,Master Student,2/15/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,mechanical turk participation distribution plot,distribution plot,Q-Q plot,2
+Kai Zhang ,13253,20-25,M,China,CIS,Undergraduate,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,package inheritance relationship,idk,Radial Cluster Diagram,4
+Kai Zhang ,13253,20-25,M,China,CIS,Undergraduate,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,US obesity,idk,Choropleth Map,3
+Kai Zhang ,13253,20-25,M,China,CIS,Undergraduate,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,U.S. unemployment rates by sector,small multiples plot,Small Multiples,1
+Kai Zhang ,13253,25-30,M,China,CSE,PhD Student,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,flowchart Napoleon's march Moscow,flow chart ,flow map / mpa,3
+Kai Zhang ,13253,25-30,M,China,CSE,PhD Student,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,unemployment rate,Horizon Plot,Horizon Graph,1
+Kai Zhang ,13253,25-30,M,China,CSE,PhD Student,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,automobile data,scatterplot,Splom / scatterplot matrix,2
+Kai Zhang ,13253,25-30,M,Costa Rica,CSE,PhD Student,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4A.png,,organizational hierarchy,tree,Node-link diagram / tree,4
+Kai Zhang ,13253,25-30,M,Costa Rica,CSE,PhD Student,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4F.png,,package size,treemap,Treemap Layout,4
+Kai Zhang ,13253,25-30,M,Costa Rica,CSE,PhD Student,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,selected tech stocks trend chart,line chart,Index chart/line chart,1
+Kai Zhang ,13253,25-30,M,USA,CSE,PhD Student,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,quantile-quantile plot of mechanical turk participation,quantile-quantile plot,Q-Q plot,2
+Kai Zhang ,13253,25-30,M,USA,CSE,PhD Student,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,layered unemployment graph: US workers sector,layered graph,Stacked Graph,1
+Kai Zhang ,13253,25-30,M,USA,CSE,PhD Student,2/15/2024,Dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,package nested relationship,nested circle,Nested Circles Tree,4
+Hrithik Devaiah Bollachettira Ajithkumar,1,21-23,M,USA,Finance,Graduate,02/13/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Stock Graph,Sector stocks growth,Index chart/line chart,1
+Hrithik Devaiah Bollachettira Ajithkumar,1,19-21,F,USA,Statistics,Undergraduate,02/13/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,State wise obesity pie chart,Pie charts,Graduated Symbol Map,3
+Hrithik Devaiah Bollachettira Ajithkumar,1,23-25,F,INDIA,Business Administration,MBA,02/13/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,Horizon Graphs U.S. Unemployment Rate,Horizon Graphs,Horizon Graph,1
+Hrithik Devaiah Bollachettira Ajithkumar,1,25-27,M,INDIA,Finance,Graduate,02/13/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,Small Multiples Unemployed U.S. Workers Normalized Industry,Small multiples,Small Multiples,1
+Hrithik Devaiah Bollachettira Ajithkumar,1,19-21,M,INDIA,MAE,Graduate,02/15/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Index Chart,Growth/Loss vs Time,Index chart/line chart,1
+Hrithik Devaiah Bollachettira Ajithkumar,1,25-27,M,INDIA,CSE,Graduate,02/15/2024,18th Avenue,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Stacked Graph Unemployed U.S. Workers Industry,stacked graph,Stacked Graph,1
+Hrithik Devaiah Bollachettira Ajithkumar,1,23-25,M,INDIA,Astronomy,Graduate,2/15/2024,18th Avenue,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,parallel Coordinates Automobile Data,parallel Coordinates,parallel Coordinates,2
+Hrithik Devaiah Bollachettira Ajithkumar,1,21-23,M,INDIA,CSE,Undergraduate,02/15/2024,Busch House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Unemployment Rate U.S. Workers Industry,Line graph,Stacked Graph,1
+Ashutosh Rudraksh,dot1,20-25,M,India,Computer Science,MS,2/11/24,University Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1B.png,,Unemployment graph,Stacked Graph,Stacked Graph,1
+Ashutosh Rudraksh,dot1,20-25,M,India,Computer Science,MS,2/11/24,university Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1C.png,,small multiples,Unemployment rate of US workers by industry,Small Multiples,1
+Ashutosh Rudraksh,dot1,20-25,M,India,Electrical Engineering,MS ,2/13/24,dreese Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Stock Index chart,Loss and gain Index chart,Index chart/line chart,1
+Ashutosh Rudraksh,dot1,20-25,M,India,Electrical Engineering,MS,2/13/24,Dresse Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,Horizon Graph unemployment,Horizon Graph,Horizon Graph,1
+Ashutosh Rudraksh,dot1,20-25,F,India,Business,Undergrad,2/13/24,University Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2D.png,,Parallel Coordinates Automobile Data,Automobile data,parallel Coordinates,2
+Ashutosh Rudraksh,dot1,20-25,F,India,Business,Undergrad,2/13/2024,university Village,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Automobile Chart,Scatter Plot Matrix,Splom / scatterplot matrix,2
+Ashutosh Rudraksh,dot1,20-25,M,India,Computer Science,Undergrad,2/13/2024,Journalism Building,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3A.png,,flow map / mpa,Map ,flow map / mpa,3
+Ashutosh Rudraksh,dot1,20-25,M,India,Computer Science,MS,2/14/2024,Journalism Building,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,stem-and-leaf plot,Data representation in 0/1,Stem-and-Leaf plot,2
+Ashutosh Rudraksh,dot1,20-25,F,India ,Computer Science,MS,2/12/14,18th Avenue,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3C.1.png,,pie chart / area chart,Area chart,Graduated Symbol Map,3
+Ashutosh Rudraksh,dot1,20-25,F,India,Chemical Enigneering,MS,2/12/24,18th Avenue,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Q-Q plot mechanical turk,Q-Q Plot,Q-Q plot,2
+Ashutosh Rudraksh,dot1,20-25,M,USA,Mechanical Engineering,Masters,2/12/24,18th Avenue,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Dorling Cartogram/area chart,Area chart,Dorling Cartogram/Area Chart,3
+Ashutosh Rudraksh,dot1,20-25,M,USA,Business,Masters,2/12/24,18th Avenue,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,choroploth map,colormap ,Choropleth Map,3
+Ashutosh Rudraksh,dot1,20-25,M,India,Chemical Enigneering,Masters,2/13/24,Dresse Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5B.png,,arc diagram,word frequency ,arc diagram,5
+Ashutosh Rudraksh,dot1,20-25,M,India,Electrical Engineering,Masters,2/13/24,Dresse Lab,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2B.1.png,,Q-plot,Distribution Plot,Q-Q plot,2
+Manish Jois,1,19-21,F,USA,Biology,Undergraduate,2/12/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Cartogram Obesity,Cartogram,Dorling Cartogram/Area Chart,3
+Manish Jois,1,19-21,F,USA,Biology,Undergraduate,2/12/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Chloropeth Map Obesity,Don't Know,Choropleth Map,3
+Manish Jos,1,22-24,M,USA,ME,Undergraduate,2/12/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/5C.png,,Les Miserables Character Bar Graph,Bar Graph,matrix view,5
+Manish Jois,1,22-24,M,USA,ME,Graduate,2/12/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1A.png,,Technology Stocks Index,Scatterplot,Index chart/line chart,1
+Manish Jois,1,22-24,M,USA,CE,Graduate,2/12/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3B.png,,Chloropeth Map Obesity,Chloropeth,Choropleth Map,3
+Manish Jos,1,19-21,F,USA,Animal Science,Undergraduate,2/13/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/1D.png,,U.S. Unemployment Horizon Graph,Bar Graph,Horizon Graph,1
+Manish Jois,1,22-24,M,USA,ME,Graduate,2/13/2024,Off Campus House,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/3D.1.png,,Cartogram Obesity,Cartogram,Dorling Cartogram/Area Chart,3
+Manish Jois,1,19-21,M,India,CSE,Undergraduate,2/13/2024,RPAC,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2A.png,,Mechanical Turk Participation Rates,Don't Know,Stem-and-Leaf plot,2
+Manish Jos,1,19-21,M,India,ME,Undergraduate,2/13/2024,RPAC,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4G.png,,Circles Layout Flare Package Hierarchy,Cartesian,Nested Circles Tree,4
+Manish Jois,1,25-27,F,India,CSE,PhD student,2/13/2024,RPAC,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/2C.png,,Scatterplots Automobile Data,Scatterplot,Splom / scatterplot matrix,2
+Manish Jois,1,22-24,F,India,CSE,Undergraduate,2/13/2024,18th Ave.,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4B.png,,Node-link Diagram Flare Package Hierarchy,Don't Know,Radial Cluster Diagram,4
+Manish Jos,1,25-27,M,Malaysia,CSE,Graduate,2/13/2024,18th Ave.,https://web.cse.ohio-state.edu/~chen.8028/Teaching/2023Lab5Data/4E.png,,Sunburst Flare Package Hierarchy,Sunburst,Sunburst Tree,4
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,, ,,,,,,,,
