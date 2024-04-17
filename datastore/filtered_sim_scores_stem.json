@@ -213,7 +213,7 @@
             "llm_keyword": "Comparison",
             "student_term": "chart",
             "similiarity": 0.289780924322694,
-            "count": 28,
+            "count": 30,
             "category": "1"
         },
         {
@@ -221,13 +221,6 @@
             "student_term": "area",
             "similiarity": 0.3392961963638252,
             "count": 3,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Distribution",
-            "student_term": "under",
-            "similiarity": 0.4202995781564406,
-            "count": 1,
             "category": "1"
         },
         {
@@ -241,7 +234,7 @@
             "llm_keyword": "Encoding",
             "student_term": "graph",
             "similiarity": 0.44311452028635345,
-            "count": 35,
+            "count": 39,
             "category": "1"
         },
         {
@@ -274,51 +267,37 @@
         },
         {
             "llm_keyword": "Intensity",
-            "student_term": "rates",
-            "similiarity": 0.42682893314014286,
-            "count": 3,
+            "student_term": "rate",
+            "similiarity": 0.40639846219323916,
+            "count": 19,
             "category": "1"
         },
         {
-            "llm_keyword": "Distribution",
-            "student_term": "of",
-            "similiarity": 0.4031879471967409,
-            "count": 18,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Distribution",
-            "student_term": "unemployed",
-            "similiarity": 0.2698025552460771,
-            "count": 7,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Relations",
-            "student_term": "workers",
-            "similiarity": 0.34086401924008797,
+            "llm_keyword": "Encoding",
+            "student_term": "stack",
+            "similiarity": 0.325134582830071,
             "count": 11,
             "category": "1"
         },
         {
             "llm_keyword": "Relations",
-            "student_term": "by",
-            "similiarity": 0.2746710132445053,
-            "count": 10,
+            "student_term": "worker",
+            "similiarity": 0.2664023810284465,
+            "count": 11,
             "category": "1"
         },
         {
             "llm_keyword": "Distribution",
             "student_term": "industry",
             "similiarity": 0.46766948758802024,
-            "count": 6,
+            "count": 11,
             "category": "1"
         },
         {
             "llm_keyword": "Distribution",
             "student_term": "stock",
             "similiarity": 0.2732260218052076,
-            "count": 16,
+            "count": 23,
             "category": "1"
         },
         {
@@ -350,45 +329,10 @@
             "category": "1"
         },
         {
-            "llm_keyword": "Trends",
-            "student_term": "stocks",
-            "similiarity": 0.29862261377833815,
-            "count": 7,
-            "category": "1"
-        },
-        {
             "llm_keyword": "Encoding",
             "student_term": "time",
             "similiarity": 0.29613947556942405,
             "count": 4,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Relations",
-            "student_term": "unemployment",
-            "similiarity": 0.45450422466734475,
-            "count": 27,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Intensity",
-            "student_term": "rate",
-            "similiarity": 0.40639846219323916,
-            "count": 14,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Distribution",
-            "student_term": "industry,",
-            "similiarity": 0.5018105592429809,
-            "count": 3,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Time-Series",
-            "student_term": "2000-2010",
-            "similiarity": 0.6896111102150553,
-            "count": 5,
             "category": "1"
         },
         {
@@ -400,8 +344,8 @@
         },
         {
             "llm_keyword": "Encoding",
-            "student_term": "counts",
-            "similiarity": 0.3620494876981857,
+            "student_term": "count",
+            "similiarity": 0.320861096473674,
             "count": 1,
             "category": "1"
         },
@@ -430,7 +374,7 @@
             "llm_keyword": "Trends",
             "student_term": "trend",
             "similiarity": 0.43678694643829025,
-            "count": 4,
+            "count": 9,
             "category": "1"
         },
         {
@@ -441,13 +385,6 @@
             "category": "1"
         },
         {
-            "llm_keyword": "Trends",
-            "student_term": "trends",
-            "similiarity": 0.723312384264546,
-            "count": 5,
-            "category": "1"
-        },
-        {
             "llm_keyword": "Comparison",
             "student_term": "price",
             "similiarity": 0.2653929557537195,
@@ -455,52 +392,17 @@
             "category": "1"
         },
         {
-            "llm_keyword": "Time-Series",
-            "student_term": "series",
-            "similiarity": 0.4977767318964218,
+            "llm_keyword": "Encoding",
+            "student_term": "serial",
+            "similiarity": 0.42100447088383175,
             "count": 1,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Distribution",
-            "student_term": "variation",
-            "similiarity": 0.7188648225711942,
-            "count": 2,
             "category": "1"
         },
         {
             "llm_keyword": "Encoding",
-            "student_term": "with",
-            "similiarity": 0.3881244356051411,
+            "student_term": "employ",
+            "similiarity": 0.4166038193172557,
             "count": 2,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Distribution",
-            "student_term": "employment",
-            "similiarity": 0.5823038892761799,
-            "count": 2,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Relations",
-            "student_term": "profession",
-            "similiarity": 0.4926979603352802,
-            "count": 1,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Distribution",
-            "student_term": "deviation",
-            "similiarity": 0.6743789078574579,
-            "count": 1,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Distribution",
-            "student_term": "from",
-            "similiarity": 0.32528207552622945,
-            "count": 1,
             "category": "1"
         },
         {
@@ -511,37 +413,30 @@
             "category": "1"
         },
         {
-            "llm_keyword": "Encoding",
-            "student_term": "depicting",
-            "similiarity": 0.40713998946906993,
+            "llm_keyword": "Metaphors",
+            "student_term": "depict",
+            "similiarity": 0.3292331505897383,
             "count": 1,
             "category": "1"
         },
         {
             "llm_keyword": "Encoding",
-            "student_term": "across",
-            "similiarity": 0.32042978959634894,
+            "student_term": "domain",
+            "similiarity": 0.4811819350769625,
             "count": 1,
             "category": "1"
         },
         {
-            "llm_keyword": "Encoding",
-            "student_term": "domains",
-            "similiarity": 0.5308578203242303,
+            "llm_keyword": "Time-Series",
+            "student_term": "sector-wise",
+            "similiarity": 0.6074709866712061,
             "count": 1,
             "category": "1"
         },
         {
             "llm_keyword": "Relations",
-            "student_term": "national",
-            "similiarity": 0.6186420450836572,
-            "count": 1,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Comparison",
-            "student_term": "compared",
-            "similiarity": 0.5298653961390353,
+            "student_term": "nation",
+            "similiarity": 0.6354667970901806,
             "count": 1,
             "category": "1"
         },
@@ -554,8 +449,8 @@
         },
         {
             "llm_keyword": "Encoding",
-            "student_term": "intersecting",
-            "similiarity": 0.5900214029552637,
+            "student_term": "intersect",
+            "similiarity": 0.43033465434006063,
             "count": 1,
             "category": "1"
         },
@@ -568,93 +463,37 @@
         },
         {
             "llm_keyword": "Encoding",
-            "student_term": "graphs",
-            "similiarity": 0.45934448569739206,
-            "count": 2,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Relations",
-            "student_term": "and",
-            "similiarity": 0.5688090189340765,
-            "count": 1,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Encoding",
             "student_term": "multiple",
             "similiarity": 0.5226879562919367,
-            "count": 1,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Comparison",
-            "student_term": "charts",
-            "similiarity": 0.31632283904634395,
-            "count": 1,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Encoding",
-            "student_term": "stack",
-            "similiarity": 0.325134582830071,
-            "count": 1,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Time-Series",
-            "student_term": "2000-10",
-            "similiarity": 0.5561192993791496,
-            "count": 1,
+            "count": 3,
             "category": "1"
         },
         {
             "llm_keyword": "Distribution",
-            "student_term": "gains/losses",
-            "similiarity": 0.4482829947393009,
-            "count": 1,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Intensity",
-            "student_term": "\nrate",
-            "similiarity": 0.40639846219323916,
-            "count": 1,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Time-Series",
-            "student_term": "industry-wise",
-            "similiarity": 0.6093221483731518,
-            "count": 1,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Distribution",
-            "student_term": "selected",
-            "similiarity": 0.5213172038350647,
-            "count": 2,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Time-Series",
-            "student_term": "industry-based",
-            "similiarity": 0.6229750688397883,
+            "student_term": "gains",
+            "similiarity": 0.3327860174606598,
             "count": 1,
             "category": "1"
         },
         {
             "llm_keyword": "Encoding",
-            "student_term": "for",
-            "similiarity": 0.3556329703523161,
+            "student_term": "histogram",
+            "similiarity": 0.5181360627958495,
             "count": 1,
             "category": "1"
         },
         {
             "llm_keyword": "Encoding",
-            "student_term": "tech",
-            "similiarity": 0.2781128622849384,
+            "student_term": "select",
+            "similiarity": 0.4474050654448335,
             "count": 2,
+            "category": "1"
+        },
+        {
+            "llm_keyword": "Encoding",
+            "student_term": "technology",
+            "similiarity": 0.530271713534332,
+            "count": 3,
             "category": "1"
         },
         {
@@ -665,30 +504,9 @@
             "category": "1"
         },
         {
-            "llm_keyword": "Time-Series",
-            "student_term": "(2000-2010)",
-            "similiarity": 0.5755909137328912,
-            "count": 1,
-            "category": "1"
-        },
-        {
             "llm_keyword": "Encoding",
-            "student_term": "layered",
-            "similiarity": 0.40619843920946525,
-            "count": 1,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Comparison",
-            "student_term": "graph:",
-            "similiarity": 0.531979803974355,
-            "count": 1,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Intensity",
-            "student_term": "rate,",
-            "similiarity": 0.4348694509912946,
+            "student_term": "layer",
+            "similiarity": 0.3675250902728672,
             "count": 1,
             "category": "1"
         },
@@ -701,15 +519,8 @@
         },
         {
             "llm_keyword": "Encoding",
-            "student_term": "multiples",
-            "similiarity": 0.5896117702501009,
-            "count": 2,
-            "category": "1"
-        },
-        {
-            "llm_keyword": "Encoding",
-            "student_term": "normalized",
-            "similiarity": 0.5475856578348105,
+            "student_term": "normal",
+            "similiarity": 0.3274654422754457,
             "count": 1,
             "category": "1"
         },
@@ -729,13 +540,6 @@
         },
         {
             "llm_keyword": "Quantities",
-            "student_term": "over",
-            "similiarity": 0.25992933513842675,
-            "count": 1,
-            "category": "2"
-        },
-        {
-            "llm_keyword": "Quantities",
             "student_term": "scatter",
             "similiarity": 0.4173861465381527,
             "count": 20,
@@ -749,9 +553,9 @@
             "category": "2"
         },
         {
-            "llm_keyword": "Quantities",
-            "student_term": "similarity",
-            "similiarity": 0.49291179997488616,
+            "llm_keyword": "Patterns",
+            "student_term": "similar",
+            "similiarity": 0.3898319378200443,
             "count": 1,
             "category": "2"
         },
@@ -763,24 +567,17 @@
             "category": "2"
         },
         {
-            "llm_keyword": "Representation",
-            "student_term": "completion",
-            "similiarity": 0.6751994646554416,
+            "llm_keyword": "Quantities",
+            "student_term": "complete",
+            "similiarity": 0.4749742157741507,
             "count": 5,
             "category": "2"
         },
         {
             "llm_keyword": "Quantities",
-            "student_term": "percentages",
-            "similiarity": 0.6298252075094548,
-            "count": 1,
-            "category": "2"
-        },
-        {
-            "llm_keyword": "Representation",
-            "student_term": "of",
-            "similiarity": 0.41939531534589314,
-            "count": 15,
+            "student_term": "percentage",
+            "similiarity": 0.513490507043892,
+            "count": 2,
             "category": "2"
         },
         {
@@ -792,8 +589,8 @@
         },
         {
             "llm_keyword": "Distributions",
-            "student_term": "distribution",
-            "similiarity": 0.874856958453169,
+            "student_term": "distribute",
+            "similiarity": 0.7081084853334515,
             "count": 7,
             "category": "2"
         },
@@ -812,13 +609,6 @@
             "category": "2"
         },
         {
-            "llm_keyword": "Quantities",
-            "student_term": "with",
-            "similiarity": 0.4078093557102967,
-            "count": 1,
-            "category": "2"
-        },
-        {
             "llm_keyword": "Patterns",
             "student_term": "linear",
             "similiarity": 0.4004197693240431,
@@ -829,14 +619,14 @@
             "llm_keyword": "Representation",
             "student_term": "participation",
             "similiarity": 0.7688710853789608,
-            "count": 12,
+            "count": 13,
             "category": "2"
         },
         {
             "llm_keyword": "Quantities",
-            "student_term": "rates",
-            "similiarity": 0.49828423541159855,
-            "count": 8,
+            "student_term": "rate",
+            "similiarity": 0.3863620107536864,
+            "count": 9,
             "category": "2"
         },
         {
@@ -868,9 +658,9 @@
             "category": "2"
         },
         {
-            "llm_keyword": "Distributions",
-            "student_term": "coordinates",
-            "similiarity": 0.5704849090632622,
+            "llm_keyword": "Representation",
+            "student_term": "coordinate",
+            "similiarity": 0.5128731422155361,
             "count": 10,
             "category": "2"
         },
@@ -889,6 +679,13 @@
             "category": "2"
         },
         {
+            "llm_keyword": "Quantities",
+            "student_term": "probability",
+            "similiarity": 0.6223839204481841,
+            "count": 2,
+            "category": "2"
+        },
+        {
             "llm_keyword": "Representation",
             "student_term": "regression",
             "similiarity": 0.567436168258316,
@@ -896,17 +693,10 @@
             "category": "2"
         },
         {
-            "llm_keyword": "Patterns",
-            "student_term": "stem",
-            "similiarity": 0.28698786296765105,
+            "llm_keyword": "Quantities",
+            "student_term": "stem-and-leaf",
+            "similiarity": 0.3964052607909618,
             "count": 8,
-            "category": "2"
-        },
-        {
-            "llm_keyword": "Relationships",
-            "student_term": "and",
-            "similiarity": 0.583338532290955,
-            "count": 9,
             "category": "2"
         },
         {
@@ -931,20 +721,6 @@
             "category": "2"
         },
         {
-            "llm_keyword": "Quantities",
-            "student_term": "percentage",
-            "similiarity": 0.513490507043892,
-            "count": 1,
-            "category": "2"
-        },
-        {
-            "llm_keyword": "Quantities",
-            "student_term": "plots",
-            "similiarity": 0.3254152615539081,
-            "count": 1,
-            "category": "2"
-        },
-        {
             "llm_keyword": "Insight",
             "student_term": "point",
             "similiarity": 0.27633267509461185,
@@ -955,27 +731,13 @@
             "llm_keyword": "Patterns",
             "student_term": "scatterplot",
             "similiarity": 0.39651659081784435,
-            "count": 6,
-            "category": "2"
-        },
-        {
-            "llm_keyword": "Insight",
-            "student_term": "mapping",
-            "similiarity": 0.5105147611649573,
-            "count": 1,
+            "count": 8,
             "category": "2"
         },
         {
             "llm_keyword": "Quantities",
             "student_term": "frequency",
             "similiarity": 0.5082098538942733,
-            "count": 1,
-            "category": "2"
-        },
-        {
-            "llm_keyword": "Relationships",
-            "student_term": "ranking",
-            "similiarity": 0.44669507445286266,
             "count": 1,
             "category": "2"
         },
@@ -987,13 +749,6 @@
             "category": "2"
         },
         {
-            "llm_keyword": "Distributions",
-            "student_term": "by",
-            "similiarity": 0.26652457225269277,
-            "count": 2,
-            "category": "2"
-        },
-        {
             "llm_keyword": "Quantities",
             "student_term": "country",
             "similiarity": 0.47422182771676163,
@@ -1001,30 +756,23 @@
             "category": "2"
         },
         {
-            "llm_keyword": "Quantities",
-            "student_term": "characteristics",
-            "similiarity": 0.6643824173894014,
-            "count": 1,
-            "category": "2"
-        },
-        {
             "llm_keyword": "Patterns",
-            "student_term": "weave",
-            "similiarity": 0.2531332865949082,
-            "count": 1,
-            "category": "2"
-        },
-        {
-            "llm_keyword": "Quantities",
-            "student_term": "not",
-            "similiarity": 0.2809670199308974,
+            "student_term": "characteristic",
+            "similiarity": 0.5638966656772806,
             "count": 1,
             "category": "2"
         },
         {
             "llm_keyword": "Distributions",
-            "student_term": "multi-colinearity",
+            "student_term": "multi-colinear",
             "similiarity": 0.34313121678819813,
+            "count": 1,
+            "category": "2"
+        },
+        {
+            "llm_keyword": "Patterns",
+            "student_term": "stem",
+            "similiarity": 0.28698786296765105,
             "count": 1,
             "category": "2"
         },
@@ -1051,20 +799,6 @@
         },
         {
             "llm_keyword": "Quantities",
-            "student_term": "rate",
-            "similiarity": 0.3863620107536864,
-            "count": 1,
-            "category": "2"
-        },
-        {
-            "llm_keyword": "Quantities",
-            "student_term": "participation\nrates",
-            "similiarity": 0.6523843422207094,
-            "count": 1,
-            "category": "2"
-        },
-        {
-            "llm_keyword": "Quantities",
             "student_term": "table",
             "similiarity": 0.431464337807197,
             "count": 1,
@@ -1072,58 +806,37 @@
         },
         {
             "llm_keyword": "Quantities",
-            "student_term": "scatterplots",
-            "similiarity": 0.448826354660655,
-            "count": 2,
-            "category": "2"
-        },
-        {
-            "llm_keyword": "Quantities",
             "student_term": "quantile",
             "similiarity": 0.5207009507856629,
-            "count": 1,
-            "category": "2"
-        },
-        {
-            "llm_keyword": "Quantities",
-            "student_term": "quantile-quantile",
-            "similiarity": 0.4341904705571244,
-            "count": 1,
-            "category": "2"
-        },
-        {
-            "llm_keyword": "Quantities",
-            "student_term": "stem-and-leaf",
-            "similiarity": 0.3964052607909618,
-            "count": 1,
+            "count": 2,
             "category": "2"
         },
         {
             "llm_keyword": "Connectivity",
             "student_term": "area",
             "similiarity": 0.3745451022134166,
-            "count": 6,
+            "count": 7,
             "category": "3"
         },
         {
             "llm_keyword": "Proportional",
             "student_term": "chart",
             "similiarity": 0.26454702685757253,
-            "count": 24,
+            "count": 25,
             "category": "3"
         },
         {
             "llm_keyword": "Spatial",
             "student_term": "map",
             "similiarity": 0.28150508726640716,
-            "count": 40,
+            "count": 42,
             "category": "3"
         },
         {
             "llm_keyword": "Hierarchy",
             "student_term": "circle",
             "similiarity": 0.34289689546861857,
-            "count": 3,
+            "count": 4,
             "category": "3"
         },
         {
@@ -1134,13 +847,6 @@
             "category": "3"
         },
         {
-            "llm_keyword": "Proportional",
-            "student_term": "density",
-            "similiarity": 0.5044881568983798,
-            "count": 2,
-            "category": "3"
-        },
-        {
             "llm_keyword": "Connectivity",
             "student_term": "distance",
             "similiarity": 0.5740451576705495,
@@ -1148,9 +854,9 @@
             "category": "3"
         },
         {
-            "llm_keyword": "Journey",
-            "student_term": "travelled",
-            "similiarity": 0.31357049201500947,
+            "llm_keyword": "Connectivity",
+            "student_term": "travel",
+            "similiarity": 0.37822335478970515,
             "count": 1,
             "category": "3"
         },
@@ -1162,17 +868,10 @@
             "category": "3"
         },
         {
-            "llm_keyword": "Spatial",
-            "student_term": "geologic",
-            "similiarity": 0.46544219159938244,
-            "count": 1,
-            "category": "3"
-        },
-        {
             "llm_keyword": "Proportional",
-            "student_term": "of",
-            "similiarity": 0.4908319688773599,
-            "count": 17,
+            "student_term": "geological",
+            "similiarity": 0.5386773741655433,
+            "count": 1,
             "category": "3"
         },
         {
@@ -1191,13 +890,6 @@
         },
         {
             "llm_keyword": "Proportional",
-            "student_term": "across",
-            "similiarity": 0.3825635615699584,
-            "count": 1,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Proportional",
             "student_term": "multiple",
             "similiarity": 0.5686097642654157,
             "count": 1,
@@ -1207,34 +899,13 @@
             "llm_keyword": "Movement",
             "student_term": "march",
             "similiarity": 0.3027748316929248,
-            "count": 4,
+            "count": 6,
             "category": "3"
         },
         {
-            "llm_keyword": "Proportional",
-            "student_term": "in",
-            "similiarity": 0.33022292992884256,
-            "count": 10,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Proportional",
-            "student_term": "the",
-            "similiarity": 0.5319449687775949,
-            "count": 10,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Hierarchy",
-            "student_term": "united",
-            "similiarity": 0.3856150586706356,
-            "count": 2,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Proportional",
-            "student_term": "states",
-            "similiarity": 0.5365366908642826,
+            "llm_keyword": "Connectivity",
+            "student_term": "unit",
+            "similiarity": 0.3662873592777507,
             "count": 2,
             "category": "3"
         },
@@ -1242,20 +913,20 @@
             "llm_keyword": "Proportional",
             "student_term": "state",
             "similiarity": 0.5150171066948451,
-            "count": 6,
+            "count": 8,
             "category": "3"
         },
         {
             "llm_keyword": "Proportional",
-            "student_term": "percentages",
-            "similiarity": 0.6430136776301747,
-            "count": 1,
+            "student_term": "percentage",
+            "similiarity": 0.6025395041808436,
+            "count": 3,
             "category": "3"
         },
         {
             "llm_keyword": "Proportional",
-            "student_term": "rates",
-            "similiarity": 0.48825936226218924,
+            "student_term": "rate",
+            "similiarity": 0.4241001614361597,
             "count": 4,
             "category": "3"
         },
@@ -1289,23 +960,16 @@
         },
         {
             "llm_keyword": "Proportional",
-            "student_term": "distribution",
-            "similiarity": 0.7323652911068714,
+            "student_term": "distribute",
+            "similiarity": 0.5476421382564152,
             "count": 1,
             "category": "3"
         },
         {
             "llm_keyword": "Connectivity",
-            "student_term": "progression",
-            "similiarity": 0.6774050741842003,
+            "student_term": "progress",
+            "similiarity": 0.5691636607085447,
             "count": 1,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Proportional",
-            "student_term": "over",
-            "similiarity": 0.299004282176388,
-            "count": 2,
             "category": "3"
         },
         {
@@ -1323,30 +987,9 @@
             "category": "3"
         },
         {
-            "llm_keyword": "Proportional",
-            "student_term": "and",
-            "similiarity": 0.5700366054035514,
-            "count": 1,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Proportional",
-            "student_term": "percentage",
-            "similiarity": 0.6025395041808436,
-            "count": 2,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Movement",
-            "student_term": "marching",
-            "similiarity": 0.32781463437374403,
-            "count": 2,
-            "category": "3"
-        },
-        {
             "llm_keyword": "Connectivity",
-            "student_term": "informed",
-            "similiarity": 0.3269496125625154,
+            "student_term": "inform",
+            "similiarity": 0.31661926673025376,
             "count": 1,
             "category": "3"
         },
@@ -1355,13 +998,6 @@
             "student_term": "weight",
             "similiarity": 0.44634508459752104,
             "count": 1,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Flow",
-            "student_term": "/",
-            "similiarity": 0.2887809231774639,
-            "count": 4,
             "category": "3"
         },
         {
@@ -1379,45 +1015,10 @@
             "category": "3"
         },
         {
-            "llm_keyword": "Proportional",
-            "student_term": "using",
-            "similiarity": 0.49398775373207604,
-            "count": 1,
-            "category": "3"
-        },
-        {
             "llm_keyword": "Movement",
             "student_term": "graduated",
             "similiarity": 0.3080297690251329,
             "count": 2,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Analysis",
-            "student_term": "(1995",
-            "similiarity": 0.283927845573793,
-            "count": 1,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Connectivity",
-            "student_term": "to",
-            "similiarity": 0.27803891958749505,
-            "count": 1,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Analysis",
-            "student_term": "2008)",
-            "similiarity": 0.32793617684744003,
-            "count": 1,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Hierarchy",
-            "student_term": "circles",
-            "similiarity": 0.34302430637533293,
-            "count": 1,
             "category": "3"
         },
         {
@@ -1428,13 +1029,6 @@
             "category": "3"
         },
         {
-            "llm_keyword": "Movement",
-            "student_term": "by",
-            "similiarity": 0.25823301883635824,
-            "count": 3,
-            "category": "3"
-        },
-        {
             "llm_keyword": "Proportional",
             "student_term": "color",
             "similiarity": 0.3229738334101768,
@@ -1442,37 +1036,9 @@
             "category": "3"
         },
         {
-            "llm_keyword": "Proportional",
-            "student_term": "coded",
-            "similiarity": 0.26902329831849225,
-            "count": 1,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Spatial",
-            "student_term": "maps",
-            "similiarity": 0.3529963622960267,
-            "count": 1,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Proportional",
-            "student_term": "charts",
-            "similiarity": 0.2801961382079882,
-            "count": 1,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Proportional",
-            "student_term": "united\nstates",
-            "similiarity": 0.5095177498541048,
-            "count": 1,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Analysis",
-            "student_term": "(1995-2008)",
-            "similiarity": 0.3367128917546448,
+            "llm_keyword": "Connectivity",
+            "student_term": "code",
+            "similiarity": 0.2629771310401864,
             "count": 1,
             "category": "3"
         },
@@ -1499,8 +1065,8 @@
         },
         {
             "llm_keyword": "Connectivity",
-            "student_term": "trends",
-            "similiarity": 0.40983484794993524,
+            "student_term": "trend",
+            "similiarity": 0.28434659439447213,
             "count": 1,
             "category": "3"
         },
@@ -1515,13 +1081,6 @@
             "llm_keyword": "Hierarchy",
             "student_term": "wise",
             "similiarity": 0.26656717818829684,
-            "count": 1,
-            "category": "3"
-        },
-        {
-            "llm_keyword": "Connectivity",
-            "student_term": "cartogram/area",
-            "similiarity": 0.3829077478004477,
             "count": 1,
             "category": "3"
         },
@@ -1571,14 +1130,7 @@
             "llm_keyword": "Concentric",
             "student_term": "circle",
             "similiarity": 0.32110876759213586,
-            "count": 9,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Circular",
-            "student_term": "circular",
-            "similiarity": 0.7230801902206068,
-            "count": 3,
+            "count": 16,
             "category": "4"
         },
         {
@@ -1592,7 +1144,7 @@
             "llm_keyword": "Icicle",
             "student_term": "tree",
             "similiarity": 0.29450322353735087,
-            "count": 42,
+            "count": 43,
             "category": "4"
         },
         {
@@ -1634,7 +1186,7 @@
             "llm_keyword": "Cluster",
             "student_term": "hierarchy",
             "similiarity": 0.36732466170789374,
-            "count": 5,
+            "count": 6,
             "category": "4"
         },
         {
@@ -1660,8 +1212,8 @@
         },
         {
             "llm_keyword": "Cluster",
-            "student_term": "grouping",
-            "similiarity": 0.5419479688331432,
+            "student_term": "group",
+            "similiarity": 0.39589719438056925,
             "count": 1,
             "category": "4"
         },
@@ -1669,21 +1221,21 @@
             "llm_keyword": "Node-link",
             "student_term": "map",
             "similiarity": 0.3352479683379995,
-            "count": 6,
+            "count": 7,
+            "category": "4"
+        },
+        {
+            "llm_keyword": "Indented",
+            "student_term": "incontinent",
+            "similiarity": 0.3762312224879514,
+            "count": 1,
             "category": "4"
         },
         {
             "llm_keyword": "Concentric",
-            "student_term": "layers",
-            "similiarity": 0.35342072621402654,
-            "count": 3,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Cluster",
-            "student_term": "inheritance",
-            "similiarity": 0.3343102404801249,
-            "count": 2,
+            "student_term": "layer",
+            "similiarity": 0.3636129000785985,
+            "count": 4,
             "category": "4"
         },
         {
@@ -1694,17 +1246,10 @@
             "category": "4"
         },
         {
-            "llm_keyword": "Indented",
-            "student_term": "organization",
-            "similiarity": 0.4346177426434678,
+            "llm_keyword": "Concentric",
+            "student_term": "organ",
+            "similiarity": 0.271577498339884,
             "count": 1,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Circular",
-            "student_term": "of",
-            "similiarity": 0.3719785476191317,
-            "count": 9,
             "category": "4"
         },
         {
@@ -1715,23 +1260,16 @@
             "category": "4"
         },
         {
-            "llm_keyword": "Circular",
-            "student_term": "and",
-            "similiarity": 0.4290373180803493,
-            "count": 3,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Cluster",
-            "student_term": "classes",
-            "similiarity": 0.33039915073084375,
+            "llm_keyword": "Node-link",
+            "student_term": "class",
+            "similiarity": 0.31547674694478467,
             "count": 1,
             "category": "4"
         },
         {
             "llm_keyword": "Node-link",
-            "student_term": "packaged-list",
-            "similiarity": 0.7304406694780666,
+            "student_term": "list",
+            "similiarity": 0.29226042900441074,
             "count": 1,
             "category": "4"
         },
@@ -1753,14 +1291,14 @@
             "llm_keyword": "Cluster",
             "student_term": "recursive",
             "similiarity": 0.4360183799986909,
-            "count": 2,
+            "count": 3,
             "category": "4"
         },
         {
             "llm_keyword": "Concentric",
             "student_term": "rectangle",
             "similiarity": 0.42175019454203705,
-            "count": 1,
+            "count": 2,
             "category": "4"
         },
         {
@@ -1771,9 +1309,9 @@
             "category": "4"
         },
         {
-            "llm_keyword": "Cluster",
-            "student_term": "similarity",
-            "similiarity": 0.4752008854982845,
+            "llm_keyword": "Circular",
+            "student_term": "similar",
+            "similiarity": 0.4745188095306847,
             "count": 3,
             "category": "4"
         },
@@ -1795,14 +1333,7 @@
             "llm_keyword": "Node-link",
             "student_term": "package",
             "similiarity": 0.3129621593694957,
-            "count": 20,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Node-link",
-            "student_term": "maps",
-            "similiarity": 0.3097553552219722,
-            "count": 1,
+            "count": 22,
             "category": "4"
         },
         {
@@ -1856,8 +1387,8 @@
         },
         {
             "llm_keyword": "Concentric",
-            "student_term": "visualization",
-            "similiarity": 0.5741112956125298,
+            "student_term": "visual",
+            "similiarity": 0.3616696428589658,
             "count": 5,
             "category": "4"
         },
@@ -1869,16 +1400,9 @@
             "category": "4"
         },
         {
-            "llm_keyword": "Nested",
-            "student_term": "packing",
-            "similiarity": 0.3524783609756292,
-            "count": 1,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Concentric",
-            "student_term": "relational",
-            "similiarity": 0.5084391599181242,
+            "llm_keyword": "Circular",
+            "student_term": "related",
+            "similiarity": 0.505790223878256,
             "count": 1,
             "category": "4"
         },
@@ -1891,8 +1415,8 @@
         },
         {
             "llm_keyword": "Circular",
-            "student_term": "importance",
-            "similiarity": 0.3869906825027188,
+            "student_term": "import",
+            "similiarity": 0.3527626347741674,
             "count": 1,
             "category": "4"
         },
@@ -1907,13 +1431,13 @@
             "llm_keyword": "Node-link",
             "student_term": "node",
             "similiarity": 0.4938478680028287,
-            "count": 1,
+            "count": 2,
             "category": "4"
         },
         {
             "llm_keyword": "Concentric",
-            "student_term": "levels",
-            "similiarity": 0.33131228440639016,
+            "student_term": "level",
+            "similiarity": 0.29742059576378277,
             "count": 1,
             "category": "4"
         },
@@ -1921,13 +1445,6 @@
             "llm_keyword": "Circular",
             "student_term": "square",
             "similiarity": 0.26538938776221627,
-            "count": 1,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Icicle",
-            "student_term": "triangle",
-            "similiarity": 0.388390867519957,
             "count": 1,
             "category": "4"
         },
@@ -1947,8 +1464,8 @@
         },
         {
             "llm_keyword": "Concentric",
-            "student_term": "variables",
-            "similiarity": 0.42333468276585834,
+            "student_term": "variable",
+            "similiarity": 0.5059475778912068,
             "count": 1,
             "category": "4"
         },
@@ -1957,13 +1474,6 @@
             "student_term": "workflow",
             "similiarity": 0.40646626670596886,
             "count": 2,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Nested",
-            "student_term": "for",
-            "similiarity": 0.2949580016890813,
-            "count": 1,
             "category": "4"
         },
         {
@@ -1988,9 +1498,9 @@
             "category": "4"
         },
         {
-            "llm_keyword": "Nested",
-            "student_term": "selected",
-            "similiarity": 0.6375574146964814,
+            "llm_keyword": "Node-link",
+            "student_term": "select",
+            "similiarity": 0.3845391711213025,
             "count": 1,
             "category": "4"
         },
@@ -2002,30 +1512,9 @@
             "category": "4"
         },
         {
-            "llm_keyword": "Nested",
-            "student_term": "laid",
-            "similiarity": 0.2989859089560544,
-            "count": 1,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Indented",
-            "student_term": "in",
-            "similiarity": 0.3050649368826939,
-            "count": 4,
-            "category": "4"
-        },
-        {
             "llm_keyword": "Concentric",
-            "student_term": "horizontal\nlayers",
-            "similiarity": 0.47360967070166027,
-            "count": 1,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Concentric",
-            "student_term": "componentes",
-            "similiarity": 0.5044589415902685,
+            "student_term": "component",
+            "similiarity": 0.5442070648883973,
             "count": 1,
             "category": "4"
         },
@@ -2033,42 +1522,14 @@
             "llm_keyword": "Concentric",
             "student_term": "horizontal",
             "similiarity": 0.516074253708285,
-            "count": 1,
+            "count": 3,
             "category": "4"
         },
         {
             "llm_keyword": "Node-link",
-            "student_term": "sub-divided",
-            "similiarity": 0.6853379017479576,
+            "student_term": "sub-divid",
+            "similiarity": 0.7208582130068028,
             "count": 1,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Concentric",
-            "student_term": "rectangles",
-            "similiarity": 0.3570273403083915,
-            "count": 1,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Cluster",
-            "student_term": "\nrecursively",
-            "similiarity": 0.40672004447046284,
-            "count": 1,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Nested",
-            "student_term": "packed",
-            "similiarity": 0.3694831503790184,
-            "count": 1,
-            "category": "4"
-        },
-        {
-            "llm_keyword": "Concentric",
-            "student_term": "circles",
-            "similiarity": 0.3621921006763129,
-            "count": 2,
             "category": "4"
         },
         {
@@ -2087,8 +1548,8 @@
         },
         {
             "llm_keyword": "Indented",
-            "student_term": "organizational",
-            "similiarity": 0.4636257710171531,
+            "student_term": "organized",
+            "similiarity": 0.595116994905136,
             "count": 1,
             "category": "4"
         },
@@ -2100,13 +1561,6 @@
             "category": "4"
         },
         {
-            "llm_keyword": "Nested",
-            "student_term": "nested",
-            "similiarity": 0.7395493519841574,
-            "count": 1,
-            "category": "4"
-        },
-        {
             "llm_keyword": "Node-link",
             "student_term": "layout",
             "similiarity": 0.31416372246934654,
@@ -2114,23 +1568,16 @@
             "category": "4"
         },
         {
-            "llm_keyword": "Circular",
-            "student_term": "the",
-            "similiarity": 0.44780226388168903,
-            "count": 3,
-            "category": "4"
-        },
-        {
             "llm_keyword": "Node-link",
-            "student_term": "node-link",
-            "similiarity": 0.9423601817044888,
+            "student_term": "link",
+            "similiarity": 0.5929635784433436,
             "count": 1,
             "category": "4"
         },
         {
-            "llm_keyword": "Multidimensional",
-            "student_term": "categoried-web",
-            "similiarity": 0.3676681251063059,
+            "llm_keyword": "Tabular",
+            "student_term": "web",
+            "similiarity": 0.284790307114822,
             "count": 1,
             "category": "5"
         },
@@ -2157,9 +1604,9 @@
         },
         {
             "llm_keyword": "Connections",
-            "student_term": "connected",
-            "similiarity": 0.6165544459040545,
-            "count": 1,
+            "student_term": "connect",
+            "similiarity": 0.47740851124842526,
+            "count": 4,
             "category": "5"
         },
         {
@@ -2170,52 +1617,31 @@
             "category": "5"
         },
         {
-            "llm_keyword": "Connections",
-            "student_term": "connection",
-            "similiarity": 0.8132154982524976,
-            "count": 3,
-            "category": "5"
-        },
-        {
             "llm_keyword": "Tabular",
             "student_term": "character",
             "similiarity": 0.4266644970636573,
-            "count": 9,
+            "count": 12,
             "category": "5"
         },
         {
             "llm_keyword": "Connections",
-            "student_term": "interaction",
-            "similiarity": 0.7502556994699572,
-            "count": 5,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Tabular",
-            "student_term": "a",
-            "similiarity": 0.29073017448733524,
-            "count": 1,
+            "student_term": "interact",
+            "similiarity": 0.5649962818633129,
+            "count": 11,
             "category": "5"
         },
         {
             "llm_keyword": "Arrangement",
             "student_term": "force",
             "similiarity": 0.37146258954689093,
-            "count": 2,
+            "count": 3,
             "category": "5"
         },
         {
             "llm_keyword": "Arrangement",
             "student_term": "directed",
             "similiarity": 0.40391190618836414,
-            "count": 3,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Summaries",
-            "student_term": "characters",
-            "similiarity": 0.4832363147181096,
-            "count": 3,
+            "count": 4,
             "category": "5"
         },
         {
@@ -2240,13 +1666,6 @@
             "category": "5"
         },
         {
-            "llm_keyword": "Tabular",
-            "student_term": "nodal",
-            "similiarity": 0.4088173486895635,
-            "count": 2,
-            "category": "5"
-        },
-        {
             "llm_keyword": "Multidimensional",
             "student_term": "analysis",
             "similiarity": 0.6283019596051531,
@@ -2257,55 +1676,27 @@
             "llm_keyword": "Tabular",
             "student_term": "node",
             "similiarity": 0.38560782221271034,
+            "count": 5,
+            "category": "5"
+        },
+        {
+            "llm_keyword": "Multidimensional",
+            "student_term": "co-occurrance",
+            "similiarity": 0.2747763792924086,
             "count": 2,
             "category": "5"
         },
         {
-            "llm_keyword": "Tabular",
-            "student_term": "plotted",
-            "similiarity": 0.31007012567571257,
-            "count": 1,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Multidimensional",
-            "student_term": "co-occurrence",
-            "similiarity": 0.36819225391997057,
-            "count": 1,
-            "category": "5"
-        },
-        {
             "llm_keyword": "Relationships",
-            "student_term": "relation",
-            "similiarity": 0.7481415422903978,
-            "count": 1,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Tabular",
-            "student_term": "some",
-            "similiarity": 0.35309245551693813,
-            "count": 1,
+            "student_term": "relationship",
+            "similiarity": 0.8081028096882009,
+            "count": 2,
             "category": "5"
         },
         {
             "llm_keyword": "Multidimensional",
-            "student_term": "of",
-            "similiarity": 0.43404387411145917,
-            "count": 4,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Tabular",
-            "student_term": "nodes",
-            "similiarity": 0.4719013301768204,
-            "count": 1,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Multidimensional",
-            "student_term": "scaled",
-            "similiarity": 0.4594749512079929,
+            "student_term": "scale",
+            "similiarity": 0.5131514791167864,
             "count": 1,
             "category": "5"
         },
@@ -2317,24 +1708,10 @@
             "category": "5"
         },
         {
-            "llm_keyword": "Multidimensional",
-            "student_term": "force-directed",
-            "similiarity": 0.4734877396576914,
+            "llm_keyword": "Tabular",
+            "student_term": "visual",
+            "similiarity": 0.5924385136927224,
             "count": 1,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Multidimensional",
-            "student_term": "visualization",
-            "similiarity": 0.7895561310263559,
-            "count": 1,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Connections",
-            "student_term": "interactions",
-            "similiarity": 0.7749593388232617,
-            "count": 5,
             "category": "5"
         },
         {
@@ -2348,20 +1725,6 @@
             "llm_keyword": "Multidimensional",
             "student_term": "frequency",
             "similiarity": 0.5434033557534893,
-            "count": 1,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Network",
-            "student_term": "&",
-            "similiarity": 0.264816065748024,
-            "count": 1,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Multidimensional",
-            "student_term": "co-occurance",
-            "similiarity": 0.3780528552688042,
             "count": 1,
             "category": "5"
         },
@@ -2388,78 +1751,15 @@
         },
         {
             "llm_keyword": "Tabular",
-            "student_term": "lineage",
-            "similiarity": 0.391942046836214,
-            "count": 1,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Tabular",
             "student_term": "cluster",
             "similiarity": 0.5673814688435476,
             "count": 1,
             "category": "5"
         },
         {
-            "llm_keyword": "Connections",
-            "student_term": "between",
-            "similiarity": 0.4257056110104146,
-            "count": 2,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Arrangement",
-            "student_term": "for",
-            "similiarity": 0.36164675964671483,
-            "count": 1,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Connections",
-            "student_term": "\ninteraction",
-            "similiarity": 0.7502556994699572,
-            "count": 1,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Connections",
-            "student_term": "in",
-            "similiarity": 0.27313849638057563,
-            "count": 3,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Connections",
-            "student_term": "appearances",
-            "similiarity": 0.4188931263759697,
-            "count": 1,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Connections",
-            "student_term": "\nmiserables,",
-            "similiarity": 0.44442603371590067,
-            "count": 1,
-            "category": "5"
-        },
-        {
             "llm_keyword": "Tabular",
-            "student_term": "arches",
-            "similiarity": 0.4733654869611596,
-            "count": 1,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Multidimensional",
-            "student_term": "representing\nco-occurences",
-            "similiarity": 0.4333647880125947,
-            "count": 1,
-            "category": "5"
-        },
-        {
-            "llm_keyword": "Relationships",
-            "student_term": "relationship",
-            "similiarity": 0.8081028096882009,
+            "student_term": "appear",
+            "similiarity": 0.44493271976092774,
             "count": 1,
             "category": "5"
         },

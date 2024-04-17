@@ -3,7 +3,7 @@ import pandas as pd
 
 score_threshold = 0.25
 
-f = open('./datastore/finalsimscores.json', "r")
+f = open('./datastore/finalsimscores_stem.json', "r")
 data = json.load(f)
 
 keywords = pd.read_csv('./datastore/llm_answers_clean.csv')
